@@ -3,7 +3,7 @@ title: "MSU Course Website"
 description: "Reusable schedule-first course website template."
 logo: /assets/img/MSU.png
 favicon: /assets/img/favicon.ico
-baseurl: /cmse_course_template
+baseurl: /cmse495-SS27
 permalink: /:year/:month/:day/:title
 # Unlisted sections remain available by URL but are omitted from the primary
 # navigation and site search. Sections not listed here remain discoverable.
