@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2026-09-03'
+date: '2027-01-22'
 ---
+
 
 # Course Calendar and Schedule Setup
 

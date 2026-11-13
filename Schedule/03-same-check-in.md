@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2026-09-08'
+date: '2027-01-25'
 ---
+
 
 
 # Same-Day Check-In
