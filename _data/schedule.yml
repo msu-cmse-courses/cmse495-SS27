@@ -6,141 +6,165 @@
   day_id: null
 - date: '2027-01-20'
   week_start: '2027-01-18'
-  title: Template Orientation
-  url: /Schedule/01-class-course-welcome
+  title: Welcome
+  url: /Schedule/01-class-welcome
   event_type: class
   day_id: Day01
 - date: '2027-01-22'
   week_start: '2027-01-18'
-  title: Course Calendar and Schedule Setup
-  url: /Schedule/02-class-project-first-contact
+  title: Project Introductions and First Contact
+  url: /Schedule/02-class-cyberambassadors-first-contact
   event_type: class
   day_id: Day02
 - date: '2027-01-25'
   week_start: '2027-01-25'
-  title: Same-Day Check-In
-  url: /Schedule/03-same-check-in
-  event_type: same
-  day_id: Day03
-- date: '2027-01-25'
-  week_start: '2027-01-25'
-  title: Schedule File Conventions
-  url: /Schedule/03-class-project-review-workshop
+  title: Project Review Presentations
+  url: /Schedule/03-class-class-agenda-project-review
   event_type: class
   day_id: Day03
 - date: '2027-01-27'
   week_start: '2027-01-25'
-  title: Project Checkpoint
-  url: /Schedule/03-plus-2-project-checkpoint
-  event_type: plus
-  day_id: Day03
-- date: '2027-01-27'
-  week_start: '2027-01-25'
-  title: TBD
-  url: null
+  title: Teaming Up
+  url: /Schedule/04-class-cyberambassadors-teaming-up
   event_type: class
   day_id: Day04
 - date: '2027-01-29'
   week_start: '2027-01-25'
-  title: Publishing and Draft Content
-  url: /Schedule/05-class-project-preferences
+  title: Team Meeting
+  url: /Schedule/05-class-team-meeting
   event_type: class
   day_id: Day05
 - date: '2027-01-31'
   week_start: '2027-01-25'
-  title: 'Example: Due on the First Sunday After Class 03'
-  url: /Schedule/03-next-sun-example
+  title: Project Files - Organizing your Team and Project!
+  url: /Schedule/05-next-sun-project-organization
+  event_type: next
+  day_id: Day05
+- date: '2027-01-31'
+  week_start: '2027-01-25'
+  title: Project Preferences
+  url: /Schedule/03-next-sun-project-preferences
   event_type: next
   day_id: Day03
 - date: '2027-02-01'
   week_start: '2027-02-01'
-  title: TBD
-  url: null
+  title: 'In-Class ASSIGNMENT: Team Charter Review'
+  url: /Schedule/06-class-anticipating-challenges
   event_type: class
   day_id: Day06
 - date: '2027-02-03'
   week_start: '2027-02-01'
-  title: TBD
-  url: null
+  title: Speaking Up
+  url: /Schedule/07-class-cyberambassadors-speaking-up
   event_type: class
   day_id: Day07
 - date: '2027-02-05'
   week_start: '2027-02-01'
-  title: TBD
-  url: null
+  title: 'In-Class Assignment: SCHOLAR Tutorial Review'
+  url: /Schedule/08-class-scholar-review
   event_type: class
+  day_id: Day08
+- date: '2027-02-07'
+  week_start: '2027-02-01'
+  title: Project Exploration and Plan
+  url: /Schedule/08-next-sun-exploration-and-plan
+  event_type: next
   day_id: Day08
 - date: '2027-02-08'
   week_start: '2027-02-08'
-  title: TBD
-  url: null
+  title: Project Plans and Schedules
+  url: /Schedule/09-class-project-plan
   event_type: class
   day_id: Day09
 - date: '2027-02-10'
   week_start: '2027-02-08'
-  title: TBD
-  url: null
+  title: Let's Talk
+  url: /Schedule/10-class-cyberambassadors-lets-talk
   event_type: class
   day_id: Day10
 - date: '2027-02-12'
   week_start: '2027-02-08'
-  title: TBD
-  url: null
+  title: 'In-Class Assignment: Pull Request'
+  url: /Schedule/11-class-scholar-pull-request
   event_type: class
+  day_id: Day11
+- date: '2027-02-14'
+  week_start: '2027-02-08'
+  title: Project Plan Video Storyboard
+  url: /Schedule/11-next-sun-plan-video-storyboard
+  event_type: next
   day_id: Day11
 - date: '2027-02-15'
   week_start: '2027-02-15'
-  title: TBD
-  url: null
+  title: Proposal Presentation Storyboard Review
+  url: /Schedule/12-class-inicial-storyboard-review
   event_type: class
   day_id: Day12
 - date: '2027-02-17'
   week_start: '2027-02-15'
-  title: TBD
-  url: null
+  title: Community Engaged Learning - Core Concepts
+  url: /Schedule/13-class-community-engaged-learning
   event_type: class
   day_id: Day13
 - date: '2027-02-19'
   week_start: '2027-02-15'
-  title: TBD
-  url: null
+  title: 'In-Class Assignment: Pull Request'
+  url: /Schedule/14-class-scholar-pull-request
   event_type: class
+  day_id: Day14
+- date: '2027-02-21'
+  week_start: '2027-02-15'
+  title: Project Proposal Video
+  url: /Schedule/14-next-sun-plan-video
+  event_type: next
   day_id: Day14
 - date: '2027-02-22'
   week_start: '2027-02-22'
-  title: TBD
-  url: null
+  title: Proposal Presentations
+  url: /Schedule/15-class-proposal-presentations
   event_type: class
   day_id: Day15
 - date: '2027-02-24'
   week_start: '2027-02-22'
-  title: TBD
-  url: null
+  title: Leveling up
+  url: /Schedule/16-class-cyberambassadors-leveling-up
   event_type: class
   day_id: Day16
 - date: '2027-02-26'
   week_start: '2027-02-22'
-  title: TBD
-  url: null
+  title: 'In-Class Assignment: SCHOLAR Cleaning'
+  url: /Schedule/17-class-scholar-presentations
   event_type: class
+  day_id: Day17
+- date: '2027-02-28'
+  week_start: '2027-02-22'
+  title: Assignment - Project Media Outreach
+  url: /Schedule/17-next-sun-outreach
+  event_type: next
   day_id: Day17
 - date: '2027-03-01'
   week_start: '2027-03-01'
-  title: TBD
-  url: null
+  title: Installation Code Review
+  url: /Schedule/18-class-outreach-review
   event_type: class
   day_id: Day18
 - date: '2027-03-03'
   week_start: '2027-03-01'
-  title: TBD
-  url: null
+  title: It's Complicated
+  url: /Schedule/19-class-cyberambassadors-its-complicated
   event_type: class
   day_id: Day19
 - date: '2027-03-05'
   week_start: '2027-03-01'
-  title: TBD
-  url: null
+  title: Selection Matrix
+  url: /Schedule/20-class-scholar-selection-matrix
   event_type: class
+  day_id: Day20
+- date: '2027-03-07'
+  week_start: '2027-03-01'
+  title: Install Instructions - Project Reproducibility
+  url: /Schedule/20-next-sun-install-instructions
+  event_type: next
   day_id: Day20
 - date: '2027-03-08'
   week_start: '2027-03-08'
@@ -186,127 +210,187 @@
   day_id: null
 - date: '2027-03-15'
   week_start: '2027-03-15'
-  title: TBD
-  url: null
+  title: Install Instruction Review
+  url: /Schedule/21-class-install-instruction-review
   event_type: class
   day_id: Day21
 - date: '2027-03-17'
   week_start: '2027-03-15'
-  title: TBD
-  url: null
+  title: CyberAmbassadors - Leading the Team
+  url: /Schedule/22-class-cyberambassadors-leading-the-team
   event_type: class
   day_id: Day22
 - date: '2027-03-19'
   week_start: '2027-03-15'
-  title: TBD
-  url: null
+  title: Tutorial Selection
+  url: /Schedule/23-class-scholar-tutorial-selection
   event_type: class
+  day_id: Day23
+- date: '2027-03-21'
+  week_start: '2027-03-15'
+  title: Install Instructions - Project Reproducibility
+  url: /Schedule/23-next-sun-install-instructions
+  event_type: next
   day_id: Day23
 - date: '2027-03-22'
   week_start: '2027-03-22'
-  title: TBD
-  url: null
+  title: Leading the Change
+  url: /Schedule/24-class-cyberambassadors-leading-the-change
   event_type: class
   day_id: Day24
 - date: '2027-03-24'
   week_start: '2027-03-22'
-  title: TBD
-  url: null
+  title: Work on Tutorials
+  url: /Schedule/25-class-scholar-tutorial-writing
   event_type: class
   day_id: Day25
 - date: '2027-03-26'
   week_start: '2027-03-22'
-  title: TBD
-  url: null
+  title: Minimum Viable Product Storyboard Review
+  url: /Schedule/26-class-second-storyboard-review
   event_type: class
   day_id: Day26
+- date: '2027-03-28'
+  week_start: '2027-03-22'
+  title: Storyboard Update
+  url: /Schedule/25-next-sun-second-video-storyboard
+  event_type: next
+  day_id: Day25
 - date: '2027-03-29'
   week_start: '2027-03-29'
-  title: TBD
-  url: null
+  title: Project Co-Work
+  url: /Schedule/27-class-project-cowork-1
   event_type: class
   day_id: Day27
 - date: '2027-03-31'
   week_start: '2027-03-29'
-  title: TBD
-  url: null
+  title: Work on Tutorials
+  url: /Schedule/28-class-scholar-tutorial-pull-requests
   event_type: class
   day_id: Day28
 - date: '2027-04-02'
   week_start: '2027-03-29'
-  title: TBD
-  url: null
+  title: Minimum Viable Product Demo Presentations
+  url: /Schedule/29-class-mvp-presentations
   event_type: class
   day_id: Day29
+- date: '2027-04-04'
+  week_start: '2027-03-29'
+  title: Submission
+  url: /Schedule/28-next-sun-mvp-video
+  event_type: next
+  day_id: Day28
 - date: '2027-04-05'
   week_start: '2027-04-05'
-  title: TBD
-  url: null
+  title: Leading with Principles
+  url: /Schedule/30-class-cyberambassadors-leading-with-principles
   event_type: class
   day_id: Day30
 - date: '2027-04-07'
   week_start: '2027-04-05'
-  title: TBD
-  url: null
+  title: Deep Tutorial Review
+  url: /Schedule/31-class-scholar-deep-tutorial-review
   event_type: class
   day_id: Day31
 - date: '2027-04-09'
   week_start: '2027-04-05'
-  title: TBD
-  url: null
+  title: Figure Reproducibility initial documentation
+  url: /Schedule/32-class-figure-reproducibility-review
   event_type: class
   day_id: Day32
+- date: '2027-04-11'
+  week_start: '2027-04-05'
+  title: Reproducibility
+  url: /Schedule/31-next-sun-reproducibility
+  event_type: next
+  day_id: Day31
 - date: '2027-04-12'
   week_start: '2027-04-12'
-  title: TBD
-  url: null
+  title: Project Co-Work
+  url: /Schedule/33-class-project-cowork-2
   event_type: class
   day_id: Day33
 - date: '2027-04-14'
   week_start: '2027-04-12'
-  title: TBD
-  url: null
+  title: Tutorial Presentations
+  url: /Schedule/34-class-scholar-tutorial-presentations
   event_type: class
   day_id: Day34
 - date: '2027-04-16'
   week_start: '2027-04-12'
-  title: TBD
-  url: null
+  title: Full Project Review
+  url: /Schedule/35-class-full-project-review
   event_type: class
   day_id: Day35
+- date: '2027-04-18'
+  week_start: '2027-04-12'
+  title: Project Draft
+  url: /Schedule/34-next-sun-full-project-draft
+  event_type: next
+  day_id: Day34
 - date: '2027-04-19'
   week_start: '2027-04-19'
-  title: TBD
-  url: null
+  title: Project Co-Work
+  url: /Schedule/36-class-project-cowork-3
   event_type: class
   day_id: Day36
 - date: '2027-04-21'
   week_start: '2027-04-19'
-  title: TBD
-  url: null
+  title: Project Co-Work
+  url: /Schedule/37-class-project-cowork-4
   event_type: class
   day_id: Day37
 - date: '2027-04-23'
   week_start: '2027-04-19'
-  title: TBD
-  url: null
+  title: Final Presentation Storyboard
+  url: /Schedule/38-class-final-presentation-storyboard-feedback
   event_type: class
   day_id: Day38
+- date: '2027-04-25'
+  week_start: '2027-04-19'
+  title: Final Reflection
+  url: /Schedule/38-next-sun-personal-reflection
+  event_type: next
+  day_id: Day38
+- date: '2027-04-25'
+  week_start: '2027-04-19'
+  title: Final Videos and Presentations
+  url: /Schedule/37-next-sun-final-videos-and-presentations
+  event_type: next
+  day_id: Day37
 - date: '2027-04-26'
   week_start: '2027-04-26'
-  title: TBD
-  url: null
+  title: Showcase Practice
+  url: /Schedule/39-class-showcase-practice
   event_type: class
   day_id: Day39
 - date: '2027-04-28'
   week_start: '2027-04-26'
-  title: TBD
-  url: null
+  title: Minimum Viable Product Demo Presentations
+  url: /Schedule/40-class-final-video-presentations
   event_type: class
   day_id: Day40
 - date: '2027-04-30'
   week_start: '2027-04-26'
-  title: TBD
-  url: null
+  title: CMSE 495 Project Showcase
+  url: /Schedule/41-same-final-presentaiton-design-day
+  event_type: same
+  day_id: Day41
+- date: '2027-04-30'
+  week_start: '2027-04-26'
+  title: Course Review and Reflections
+  url: /Schedule/41-class-course-review-and-reflection
   event_type: class
   day_id: Day41
+- date: '2027-04-30'
+  week_start: '2027-04-26'
+  title: Final Extended Deadline
+  url: /Schedule/41-same-final-extended-deadline
+  event_type: same
+  day_id: Day41
+- date: '2027-05-02'
+  week_start: '2027-04-26'
+  title: Final Project and Video
+  url: /Schedule/39-next-sun-final-project
+  event_type: next
+  day_id: Day39
