@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: "MSU Course Website"
-description: "Reusable schedule-first course website template."
-logo: /assets/img/MSU.png
+title: "CMSE495 - Experiencial Learning in Data Science"
+description: "Website for the CMSE 495 Data Science Capstone."
+logo: /assets/img/logo.png
 favicon: /assets/img/favicon.ico
 baseurl: /cmse495-SS27
 permalink: /:year/:month/:day/:title
