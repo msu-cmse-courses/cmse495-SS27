@@ -1,0 +1,123 @@
+<nav class="auto-toc" aria-label="On this page">
+  <h2>On this page</h2>
+  <ul class="auto-toc-list" id="auto-toc-list"></ul>
+</nav>
+
+<style>
+  .auto-toc-list {
+    list-style: none;
+    margin: 0.35rem 0 0;
+    padding-left: 0;
+  }
+
+  .auto-toc-list > li {
+    margin: 0.25rem 0;
+  }
+
+  .auto-toc-list ul {
+    list-style: none;
+    margin: 0.2rem 0 0;
+    padding-left: 1rem;
+    border-left: 1px solid var(--border);
+  }
+
+  .auto-toc-list ul > li {
+    margin: 0.2rem 0;
+  }
+
+  .auto-toc-level-1 {
+    font-weight: 600;
+  }
+
+  .auto-toc-level-2 {
+    font-weight: 500;
+  }
+
+  .auto-toc-level-3 {
+    font-size: 0.95em;
+    color: var(--muted);
+    font-weight: 400;
+  }
+</style>
+
+<script>
+  (function () {
+    const tocList = document.getElementById("auto-toc-list");
+    const content = document.getElementById("content");
+
+    if (!tocList || !content) {
+      return;
+    }
+
+    const headings = Array.from(content.querySelectorAll("h1, h2, h3"));
+
+    if (headings.length === 0) {
+      const tocContainer = tocList.closest(".auto-toc");
+      if (tocContainer) {
+        tocContainer.hidden = true;
+      }
+      return;
+    }
+
+    function slugify(text) {
+      return text
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .replace(/-+/g, "-");
+    }
+
+    function addHeading(heading) {
+      const text = (heading.textContent || "").trim();
+      if (!text) {
+        return;
+      }
+
+      if (!heading.id) {
+        heading.id = slugify(text);
+      }
+
+      const li = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = `#${heading.id}`;
+      link.textContent = text;
+      li.appendChild(link);
+
+      const tag = heading.tagName.toLowerCase();
+      let childList = null;
+
+      if (tag === "h1") {
+        li.className = "auto-toc-level-1";
+        childList = document.createElement("ul");
+        li.appendChild(childList);
+        tocList.appendChild(li);
+        state.currentH1Parent = childList;
+        state.currentH2Parent = childList;
+        return;
+      } else if (tag === "h2") {
+        li.className = "auto-toc-level-2";
+        childList = document.createElement("ul");
+        li.appendChild(childList);
+        (state.currentH1Parent || tocList).appendChild(li);
+        state.currentH2Parent = childList;
+        state.currentH3Parent = childList;
+        return;
+      } else {
+        li.className = "auto-toc-level-3";
+      }
+
+      (state.currentH3Parent || state.currentH2Parent || state.currentH1Parent || tocList).appendChild(li);
+    }
+
+    const state = {
+      currentH1Parent: null,
+      currentH2Parent: null,
+      currentH3Parent: null,
+    };
+
+    headings.forEach((heading) => {
+      addHeading(heading);
+    });
+  })();
+</script>

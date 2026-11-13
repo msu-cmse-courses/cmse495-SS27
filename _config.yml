@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+title: "MSU Course Website"
+description: "Reusable schedule-first course website template."
+logo: /assets/img/MSU.png
+favicon: /assets/img/favicon.ico
+baseurl: /cmse_course_template
+permalink: /:year/:month/:day/:title
+# Unlisted sections remain available by URL but are omitted from the primary
+# navigation and site search. Sections not listed here remain discoverable.
+section_visibility:
+  Instructors: unlisted
+exclude:
+  - envs/
+  - .bundle/
+  - vendor/
+  - node_modules/
+  - .jekyll-cache/
+  - .sass-cache/
+  - _site/
