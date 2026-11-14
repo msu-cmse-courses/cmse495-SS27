@@ -361,13 +361,7 @@
 - date: '2027-04-30'
   week_start: '2027-04-26'
   title: CMSE 495 Project Showcase
-  url: /Schedule/41-same-final-presentaiton-design-day
-  event_type: same
-  day_id: Day41
-- date: '2027-04-30'
-  week_start: '2027-04-26'
-  title: TBD
-  url: null
+  url: /Schedule/41-class-final-presentaiton-design-day
   event_type: class
   day_id: Day41
 - date: '2027-05-02'
@@ -375,4 +369,10 @@
   title: MILESTONE Final Project and Video
   url: /Schedule/39-next-sun-final-project
   event_type: next
+  day_id: Day39
+- date: '2027-05-05'
+  week_start: '2027-05-03'
+  title: Final Extended Deadline
+  url: /Schedule/39-plus-9-final-extended-deadline
+  event_type: plus
   day_id: Day39
