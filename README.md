@@ -22,6 +22,22 @@ The template exists to help instructors:
 5. Set the semester dates in `config/fall_calendar.yml` or `config/spring_calendar.yml`.
 6. Run the generator and review warnings before publishing.
 
+## Adding menu pages
+
+To create a standalone primary-menu page, add a root-level Markdown file with
+front matter such as:
+
+```yaml
+---
+layout: basic
+title: "Seeking Community Partners"
+---
+```
+
+The page appears in the menu automatically. To keep it available by URL but
+hide it from the menu and search, add its filename stem to
+`section_visibility` in `_config.yml`.
+
 ## Quick start
 
 1. Open the semester calendar file:

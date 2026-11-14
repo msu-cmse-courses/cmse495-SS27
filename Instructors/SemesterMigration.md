@@ -176,3 +176,28 @@ the regenerated files to the commit and push again.
 5. Commit the calendar configuration, schedule pages, and regenerated files
    together. Publish only after the warnings file is understood and the
    schedule view is complete.
+
+## 9. Add standalone menu pages
+
+To add a standalone page to the primary menu, create a Markdown file at the
+repository root with this front matter:
+
+```yaml
+---
+layout: basic
+title: "Seeking Community Partners"
+---
+```
+
+For example, `Seeking-Community_Partners.md` is automatically listed in the
+menu. Add its filename stem to `section_visibility` in `_config.yml` to hide
+the page from both the menu and site search while keeping its URL available:
+
+```yaml
+section_visibility:
+  Seeking-Community_Partners: unlisted
+```
+
+For a top-level folder section, use `layout: guide` in the folder's `index.md`.
+It is listed automatically unless the folder name is `unlisted` in
+`section_visibility`.

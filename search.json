@@ -5,8 +5,13 @@ layout: none
 [
 {% assign first_search_result = true %}
 {% for page in site.pages %}
-  {% assign folder_name = page.path | split: '/' | first %}
-  {% assign visibility = site.section_visibility[folder_name] | default: "listed" %}
+  {% assign path_parts = page.path | split: '/' %}
+  {% if path_parts.size == 1 %}
+    {% assign visibility_key = page.name | remove: ".md" %}
+  {% else %}
+    {% assign visibility_key = page.path | split: '/' | first %}
+  {% endif %}
+  {% assign visibility = site.section_visibility[visibility_key] | default: "listed" %}
   {% if visibility != "unlisted" %}
   {% unless first_search_result %},{% endunless %}
   {

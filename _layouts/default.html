@@ -603,7 +603,7 @@
   <header class="top-nav">
     <div class="nav-left">
       <a href="{{ '/' | relative_url }}" aria-label="Go to the schedule home page">
-        <img src="{{ '/assets/img/MSU.png' | relative_url }}" alt="Michigan State University logo">
+        <img src="{{ site.logo | default: '/assets/img/MSU.png' | relative_url }}" alt="{{ site.logo_alt | default: site.title | default: 'Course website logo' }}">
       </a>
       <div class="site-title">{{ site.title | default: "Course Website" }}</div>
     </div>
@@ -638,12 +638,24 @@
           </script>
         <a href="{{ '/' | relative_url }}" class="schedule-link{% if page.layout == "schedule" %} active{% endif %}" {% if page.layout == "schedule" %}aria-current="page"{% endif %} title="Browse the full course schedule" aria-label="Browse the full course schedule">Schedule</a>
 
+        {% assign standalone_pages = site.pages | where: "layout", "basic" | sort: "path" %}
+        {% for item in standalone_pages %}
+          {% assign path_parts = item.path | split: '/' %}
+          {% if path_parts.size == 1 and item.name != "index.md" %}
+            {% assign visibility_key = item.name | remove: ".md" %}
+            {% assign visibility = site.section_visibility[visibility_key] | default: "listed" %}
+            {% if visibility != "unlisted" %}
+              <a href="{{ item.url | relative_url }}" {% if item.url == page.url %}class="active" aria-current="page"{% endif %} title="Open {{ item.title }}" aria-label="Open {{ item.title }}">{{ item.title }}</a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
         {% assign guide_root_candidates = site.pages | where: "layout", "guide" | sort: "path" %}
         {% for item in guide_root_candidates %}
           {% if item.name == "index.md" %}
             {% assign folder_name = item.path | split: '/' | first %}
             {% assign folder_path_token = folder_name | append: '/' %}
-            {% assign label = folder_name | replace: '-', ' ' | replace: '_', ' ' %}
+            {% assign label = item.nav_title | default: item.title | default: folder_name | replace: '-', ' ' | replace: '_', ' ' %}
             {% assign visibility = site.section_visibility[folder_name] | default: "listed" %}
             {% if visibility != "unlisted" %}
               <a href="{{ item.url | relative_url }}" {% if page.path contains folder_path_token %}class="active" aria-current="page"{% endif %} title="Open the {{ label }} guide" aria-label="Open the {{ label }} guide">{{ label }}</a>

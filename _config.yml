@@ -2,12 +2,13 @@ theme: jekyll-theme-minimal
 title: "CMSE495 - Experiencial Learning in Data Science"
 description: "Website for the CMSE 495 Data Science Capstone."
 logo: /assets/img/Capstone_Logo.png
+logo_alt: CMSE 495 Data Science Capstone logo
 favicon: /assets/img/favicon.ico
 baseurl: /cmse495-SS27
 schedule_make_target: schedule-spring
 permalink: /:year/:month/:day/:title
-# Unlisted sections remain available by URL but are omitted from the primary
-# navigation and site search. Sections not listed here remain discoverable.
+# Unlisted top-level folders and standalone page filename stems remain available
+# by URL but are omitted from the primary navigation and site search.
 section_visibility:
   Instructors: unlisted
 exclude:
