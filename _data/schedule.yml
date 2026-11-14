@@ -240,8 +240,8 @@
   day_id: Day26
 - date: '2027-03-29'
   week_start: '2027-03-29'
-  title: Minimum Viable Product Storyboard Review
-  url: /Schedule/27-class-second-storyboard-review
+  title: Minimum Viable Product Demo Presentations
+  url: /Schedule/27-class-mvp-presentations
   event_type: class
   day_id: Day27
 - date: '2027-03-31'
@@ -264,8 +264,8 @@
   day_id: Day29
 - date: '2027-04-05'
   week_start: '2027-04-05'
-  title: Minimum Viable Product Demo Presentations
-  url: /Schedule/30-class-mvp-presentations
+  title: Figure Reproducibility initial documentation
+  url: /Schedule/30-class-figure-reproducibility-review
   event_type: class
   day_id: Day30
 - date: '2027-04-07'
@@ -288,8 +288,8 @@
   day_id: Day32
 - date: '2027-04-12'
   week_start: '2027-04-12'
-  title: Figure Reproducibility initial documentation
-  url: /Schedule/33-class-figure-reproducibility-review
+  title: Full Project Review
+  url: /Schedule/33-class-full-project-review
   event_type: class
   day_id: Day33
 - date: '2027-04-14'
@@ -312,8 +312,8 @@
   day_id: Day35
 - date: '2027-04-19'
   week_start: '2027-04-19'
-  title: Full Project Review
-  url: /Schedule/36-class-full-project-review
+  title: TBD
+  url: null
   event_type: class
   day_id: Day36
 - date: '2027-04-21'

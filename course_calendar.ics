@@ -386,14 +386,14 @@ DESCRIPTION:Course day: Day26\\nDetails: /cmse495-SS27/Schedule/26-next-sun
 URL:/cmse495-SS27/Schedule/26-next-sun-mvp-video
 END:VEVENT
 BEGIN:VEVENT
-UID:25ed9c6a109b97cda106076dbec5a0ba4397a216@course-website-template
+UID:ec19d0663d2c65ab66b84b997e8c73d27edc243b@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Minimum Viable Product Storyboard Review
+SUMMARY:Minimum Viable Product Demo Presentations
 DTSTART:20270329T123000
 DTEND:20270329T134000
-DESCRIPTION:Course day: Day27\\nDetails: /cmse495-SS27/Schedule/27-class-se
- cond-storyboard-review
-URL:/cmse495-SS27/Schedule/27-class-second-storyboard-review
+DESCRIPTION:Course day: Day27\\nDetails: /cmse495-SS27/Schedule/27-class-mv
+ p-presentations
+URL:/cmse495-SS27/Schedule/27-class-mvp-presentations
 END:VEVENT
 BEGIN:VEVENT
 UID:026bf0eb17d26f0e944a05bb581b214d9e4ac572@course-website-template
@@ -426,14 +426,14 @@ DESCRIPTION:Course day: Day29\\nDetails: /cmse495-SS27/Schedule/29-next-sun
 URL:/cmse495-SS27/Schedule/29-next-sun-reproducibility
 END:VEVENT
 BEGIN:VEVENT
-UID:8961c04ddc6510bf7950769e0368c5a17208e312@course-website-template
+UID:a0b9d4d34ac705e59079e8c29f6d6d339e4a79a9@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Minimum Viable Product Demo Presentations
+SUMMARY:Figure Reproducibility initial documentation
 DTSTART:20270405T123000
 DTEND:20270405T134000
-DESCRIPTION:Course day: Day30\\nDetails: /cmse495-SS27/Schedule/30-class-mv
- p-presentations
-URL:/cmse495-SS27/Schedule/30-class-mvp-presentations
+DESCRIPTION:Course day: Day30\\nDetails: /cmse495-SS27/Schedule/30-class-fi
+ gure-reproducibility-review
+URL:/cmse495-SS27/Schedule/30-class-figure-reproducibility-review
 END:VEVENT
 BEGIN:VEVENT
 UID:0758771332ef25ece1f7313d4a5629e1b42afaeb@course-website-template
@@ -467,14 +467,14 @@ DESCRIPTION:Course day: Day32\\nDetails: /cmse495-SS27/Schedule/32-next-sun
 URL:/cmse495-SS27/Schedule/32-next-sun-full-project-draft
 END:VEVENT
 BEGIN:VEVENT
-UID:fabaf57de2aeb1fa80729ef6a92d008c5e5e5d50@course-website-template
+UID:693264f200a520d3ba07e0afcf6a11560faa9c8b@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Figure Reproducibility initial documentation
+SUMMARY:Full Project Review
 DTSTART:20270412T123000
 DTEND:20270412T134000
-DESCRIPTION:Course day: Day33\\nDetails: /cmse495-SS27/Schedule/33-class-fi
- gure-reproducibility-review
-URL:/cmse495-SS27/Schedule/33-class-figure-reproducibility-review
+DESCRIPTION:Course day: Day33\\nDetails: /cmse495-SS27/Schedule/33-class-fu
+ ll-project-review
+URL:/cmse495-SS27/Schedule/33-class-full-project-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2f9d77263f8320abbc2a4658bfacf9522dbb71e2@course-website-template
@@ -507,14 +507,12 @@ DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-next-sun
 URL:/cmse495-SS27/Schedule/35-next-sun-final-videos-and-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:30267db59c18338bf0dc83298a7efe053015e8a9@course-website-template
+UID:bb4dd3a3823747103f9abd9f00bb13418876972a@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Full Project Review
+SUMMARY:TBD
 DTSTART:20270419T123000
 DTEND:20270419T134000
-DESCRIPTION:Course day: Day36\\nDetails: /cmse495-SS27/Schedule/36-class-fu
- ll-project-review
-URL:/cmse495-SS27/Schedule/36-class-full-project-review
+DESCRIPTION:Course day: Day36
 END:VEVENT
 BEGIN:VEVENT
 UID:02a9dca8e07b1954317c3628cbda0ca72968e7aa@course-website-template
