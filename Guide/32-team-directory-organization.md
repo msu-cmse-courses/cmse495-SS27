@@ -78,29 +78,4 @@ This week we just need you to create a folder for your signed NDA/IP agreements 
             DataFile2.csv
             
 
-The ```README``` files are extremely important and should be the first "touch point" in your files. Assume that people new to the folders will start there.  Use that to guild people to the other parts of the project.  All files should be documented and clearly labeled.  There should be no confusion about what a file is and why it is in the folder.  Use YYYYMMDD in filenames to denote Year (YYYY), Month (MM) and Day (DD).  Use your MSU NetID to indicate files authored by individual team members and use your short team name to designate files for your team turned into the instructor.  The only exception to the previous guildline is that anything in the ```Individual_TeamMember_files``` will mostly be ignored and should be used by team members to share files with each other. 
-
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Team Directory Organizations</summary>
-<ul>
-
-<li><a href="#minimum-team-folder-layout">Minimum Team Folder Layout</a></li>
-<li><a href="#standards">Standards</a></li>
-<li><a href="#required-habits">Required Habits</a></li>
-</ul>
-</details>
-
-<details>
-<summary>1. Teams Folder</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+The ```README``` files are extremely important and should be the first "touch point" in your files. Assume that people new to the folders will start there.  Use that to guild people to the other parts of the project.  All files should be documented and clearly labeled.  There should be no confusion about what a file is and why it is in the folder.  Use YYYYMMDD in filenames to denote Year (YYYY), Month (MM) and Day (DD).  Use your MSU NetID to indicate files authored by individual team members and use your short team name to designate files for your team turned into the instructor.  The only exception to the previous guildline is that anything in the ```Individual_TeamMember_files``` will mostly be ignored and should be used by team members to share files with each other.

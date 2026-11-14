@@ -99,44 +99,4 @@ The file storyboard slides and script will be graded on good effort attempt to f
 
 # Post Evaluation
 
-Review the feedback from your classmates and slides. Add additional information to your storyboard and finish making the video. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Final Videos and Presentations</summary>
-<ul>
-
-<li><a href="#assignment-goals">Assignment Goals</a></li>
-<li><a href="#deliverables">Deliverables</a></li>
-<ul>
-<li><a href="#1-final-video-storyboard">1. Final Video Storyboard</a></li>
-<li><a href="#2-presentation-script-or-outline">2. Presentation Script or Outline</a></li>
-</ul>
-<li><a href="#presentation-plan">Presentation Plan</a></li>
-<ul>
-<li><a href="#deliverable">Deliverable</a></li>
-</ul>
-</ul>
-</details>
-
-<details>
-<summary>Evaluation</summary>
-<ul>
-
-<ul>
-<li><a href="#total-25-points">Total: 25 Points</a></li>
-</ul>
-</ul>
-</details>
-
-<details>
-<summary>Post Evaluation</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Review the feedback from your classmates and slides. Add additional information to your storyboard and finish making the video.

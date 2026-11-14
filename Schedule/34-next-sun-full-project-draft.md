@@ -47,28 +47,4 @@ Make sure your instructions are easy to follow, your report is well-organized, a
 
 ### Congratulations, you are done!
 
-Now, you just need to commit and push the project changes to your project git repository. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Project Draft</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Submission</summary>
-<ul>
-
-<li><a href="#evaluation">Evaluation</a></li>
-<ul>
-<li><a href="#congratulations-you-are-done">Congratulations, you are done!</a></li>
-</ul>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Now, you just need to commit and push the project changes to your project git repository.

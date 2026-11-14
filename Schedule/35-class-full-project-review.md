@@ -51,40 +51,4 @@ This is a group effort, I recommend using a shared document and have multiple pe
 
 # Group meeting
 
-Conduct a group meeting for the remainder of the hour.  Check your project milestones, progress and make plans to finish your upcoming deliverables. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Full Project Review</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Shout-Outs</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Project Review</summary>
-<ul>
-
-<li><a href="#agenda">Agenda</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Group meeting</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Conduct a group meeting for the remainder of the hour.  Check your project milestones, progress and make plans to finish your upcoming deliverables.

@@ -43,24 +43,3 @@ The following is a simplified list of the questions and scales.  Some student's 
 
 
 [Direct Link to feedback form](https://forms.gle/frxG8AuzYdxnwc2H8)
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Minimum Viable Product Demo Presentations</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Final Video Feedback From</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

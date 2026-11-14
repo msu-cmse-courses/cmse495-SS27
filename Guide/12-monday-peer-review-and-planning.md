@@ -24,16 +24,3 @@ The purpose of these activities is to strengthen project deliverables, improve c
 Occasionally, students may also be asked to complete team feedback surveys  or other reflection activities. These provide instructors with additional insight into how teams are functioning and where support may be needed.
 
 As with all course activities, students are expected to participate professionally, provide honest and constructive feedback, and engage in good faith.
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Monday: Peer Review and Team Feedback</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

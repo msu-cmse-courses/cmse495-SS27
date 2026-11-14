@@ -42,33 +42,4 @@ This is a group effort, use the public team's folder to share the report with ea
 
 # Group meeting
 
-Conduct a group meeting for the remainder of the class.  Check your project milestones, progress and make plans to practice and finish your presentation by next week. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Figure Reproducibility initial documentation</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Figure Reviews</summary>
-<ul>
-
-<li><a href="#recommended-agenda">Recommended Agenda</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Group meeting</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Conduct a group meeting for the remainder of the class.  Check your project milestones, progress and make plans to practice and finish your presentation by next week.

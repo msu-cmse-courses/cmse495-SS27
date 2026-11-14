@@ -56,24 +56,3 @@ The following is a simplified list of the questions and scales.  Some student's 
 
 
 [Direct Link to feedback form](https://forms.gle/mx34fzD26FE8RAGGA)
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Proposal Presentations</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Video Feedback From</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

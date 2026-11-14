@@ -138,23 +138,4 @@ The following is an approximate rubric that will be used as a guild for evaluati
 
 ## Post-Evaluation
 
-Review feedback from instructors and ensure that any requested changes are made. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Project Files - Organizing your Team and Project!</summary>
-<ul>
-
-<li><a href="#submission">Submission</a></li>
-<ul>
-<li><a href="#basic-git-instructions">Basic git INSTRUCTIONS</a></li>
-</ul>
-<li><a href="#evaluation-and-rubric">Evaluation and Rubric</a></li>
-<li><a href="#post-evaluation">Post-Evaluation</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Review feedback from instructors and ensure that any requested changes are made.

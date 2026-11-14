@@ -38,20 +38,3 @@ Submit early enough that purchasing and approvals do not block project progress.
 > Thank you,
 > 
 > - ACME Team
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Requesting Funding</summary>
-<ul>
-
-<li><a href="#required-email-format">Required Email Format</a></li>
-<li><a href="#quality-standard">Quality Standard</a></li>
-<li><a href="#timing">Timing</a></li>
-<li><a href="#example">Example</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

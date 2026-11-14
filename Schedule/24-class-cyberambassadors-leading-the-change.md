@@ -17,25 +17,3 @@ date: '2027-03-22'
 # Leading the Change
 
 [Link to slides](https://docs.google.com/presentation/d/1NU-HeiHCYMBaIgmEcCiV3BsoAl2jMFy2bVbH3o3u7b0/edit?usp=sharing)
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Leading the Change</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Leading the Change</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

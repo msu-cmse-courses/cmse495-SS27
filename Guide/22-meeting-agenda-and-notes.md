@@ -77,30 +77,3 @@ Sharing meeting notes helps confirm that the team and community partner have a s
 Meeting notes should be concise, clear, and actionable.
 
 A good test is to imagine that someone joins the project halfway through the semester. They should be able to review the meeting notes and quickly understand what the team has accomplished, what decisions were made, what open loops remain, and what work is planned next.
-
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Meeting Agendas and Notes</summary>
-<ul>
-
-<li><a href="#purpose">Purpose</a></li>
-<li><a href="#organization">Organization</a></li>
-<li><a href="#what-to-record">What to Record</a></li>
-<ul>
-<li><a href="#meeting-information">Meeting Information</a></li>
-<li><a href="#agenda">Agenda</a></li>
-<li><a href="#discussion-notes">Discussion Notes</a></li>
-<li><a href="#next-steps">Next Steps</a></li>
-<li><a href="#open-loops">Open Loops</a></li>
-</ul>
-<li><a href="#community-partner-meetings">Community Partner Meetings</a></li>
-<li><a href="#quality-standard">Quality Standard</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

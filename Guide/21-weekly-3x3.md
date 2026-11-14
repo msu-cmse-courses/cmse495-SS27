@@ -48,21 +48,3 @@ Send the team 3x3 as formatted email text (not an attachment).
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Weekly 3x3 Updates</summary>
-<ul>
-
-<li><a href="#weekly-requirement">Weekly Requirement</a></li>
-<li><a href="#3x3-format">3x3 Format</a></li>
-<li><a href="#individual-3x3-team-level">Individual 3x3 (Team-Level)</a></li>
-<li><a href="#team-3x3-instructor-level">Team 3x3 (Instructor-Level)</a></li>
-<li><a href="#why-we-use-this">Why We Use This</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

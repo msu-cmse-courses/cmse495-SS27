@@ -113,25 +113,3 @@ These minimum expectations are intended to help everyone gain experience reviewi
 ## Honors Option
 
 Students pursuing the Honors Option may participate in SCHOLAR repository stewardship activities such as issue triage, review coordination, repository maintenance, and tutorial development. See the course ./Syllabus for details.
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Friday: SCHOLAR Projects</summary>
-<ul>
-
-<li><a href="#core-idea">Core Idea</a></li>
-<li><a href="#why-this-matters">Why This Matters</a></li>
-<li><a href="#friday-scholar-work">Friday SCHOLAR Work</a></li>
-<li><a href="#reviewing-existing-tutorials">Reviewing Existing Tutorials</a></li>
-<li><a href="#gitlab-issues">GitLab Issues</a></li>
-<li><a href="#pull-requests">Pull Requests</a></li>
-<li><a href="#quality-expectations">Quality Expectations</a></li>
-<li><a href="#earning-credit">Earning Credit</a></li>
-<li><a href="#honors-option">Honors Option</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

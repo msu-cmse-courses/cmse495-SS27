@@ -19,19 +19,3 @@ Every week students and teams should review the [Course Schedule](../index) for 
 - Milestones are due on time with **no extensions**
 
 For milestone details and sequence, use [Milestone Roadmap](Milestone_Roadmap).
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Weekly Routine</summary>
-<ul>
-
-<li><a href="#daily-flow">Daily Flow</a></li>
-<li><a href="#weekly-flow">Weekly Flow</a></li>
-<li><a href="#project-milestones-something-due-every-sunday">Project Milestones (something due every sunday)</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

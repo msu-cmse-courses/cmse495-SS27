@@ -51,22 +51,4 @@ Students who earn the CyberAmbassadors Certificate may also be invited to partic
 
 ## Why This Matters
 
-Many employers identify communication, teamwork, leadership, and professional collaboration as essential workplace skills. The CyberAmbassadors program provides structured opportunities to practice these skills while working on your capstone project, helping you become a more effective contributor to interdisciplinary teams. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Wednesday: CyberAmbassadors</summary>
-<ul>
-
-<li><a href="#about-the-program">About the Program</a></li>
-<li><a href="#focus-areas">Focus Areas</a></li>
-<li><a href="#weekly-expectations">Weekly Expectations</a></li>
-<li><a href="#certificate-option">Certificate Option</a></li>
-<li><a href="#why-this-matters">Why This Matters</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Many employers identify communication, teamwork, leadership, and professional collaboration as essential workplace skills. The CyberAmbassadors program provides structured opportunities to practice these skills while working on your capstone project, helping you become a more effective contributor to interdisciplinary teams.

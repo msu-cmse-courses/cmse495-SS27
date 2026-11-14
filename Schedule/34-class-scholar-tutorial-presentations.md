@@ -30,26 +30,3 @@ During the demo, assume that each of your audience members can look up the tutor
 ---
 
 [Link to SCHOLAR Repository](https://gitlab.msu.edu/CMSE/SCHOLAR)
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Tutorial Presentations</summary>
-<ul>
-
-<ul>
-<li><a href="#agenda-for-todays-class-110-minutes">Agenda for today's class (110 minutes)</a></li>
-</ul>
-</ul>
-</details>
-
-<details>
-<summary>Final Tutorial Presentation</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

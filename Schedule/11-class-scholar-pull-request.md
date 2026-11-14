@@ -38,26 +38,3 @@ NOTE: Again, I realize we are using a lot of jargon. This is normal when you sta
         |
         ^
     SyntaxError: invalid syntax
-
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>In-Class Assignment: Pull Request</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Getting Credit for this assignment</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

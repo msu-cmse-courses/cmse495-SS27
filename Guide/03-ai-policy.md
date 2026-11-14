@@ -118,21 +118,3 @@ You should be able to:
 - justify why you trust a particular solution
 
 AI can assist your work. Responsibility for that work remains yours.
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Artificial Intelligence Policy</summary>
-<ul>
-
-<li><a href="#trust-but-verify">Trust But Verify</a></li>
-<li><a href="#keep-it-simple">Keep It Simple</a></li>
-<li><a href="#hidden-risks">Hidden Risks</a></li>
-<li><a href="#ai-and-scientific-software-engineering">AI and Scientific Software Engineering</a></li>
-<li><a href="#student-responsibility">Student Responsibility</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

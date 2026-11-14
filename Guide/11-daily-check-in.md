@@ -60,26 +60,3 @@ Professionalism is a significant component of your course grade.
 Students are expected to follow these processes consistently, communicate honestly, and take responsibility for keeping their teams informed. Failure to communicate, repeated missed submissions, or providing inaccurate information may be reflected in professionalism assessments.
 
 The instructional team assumes students are acting in good faith. This system is designed to support accountability and professional growth, not to police attendance. Honest communication and follow-through are essential expectations of the course.
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Daily Class Check-In and Participation Notices</summary>
-<ul>
-
-<li><a href="#link">Link</a></li>
-<li><a href="#purpose">Purpose</a></li>
-<li><a href="#expectations">Expectations</a></li>
-<ul>
-<li><a href="#if-you-attend-class">If You Attend Class</a></li>
-<li><a href="#if-you-expect-a-change-in-participation">If You Expect a Change in Participation</a></li>
-</ul>
-<li><a href="#professional-communication">Professional Communication</a></li>
-<li><a href="#professionalism-and-course-credit">Professionalism and Course Credit</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

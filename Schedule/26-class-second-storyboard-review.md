@@ -32,46 +32,4 @@ Next you will turn in your minimal MVP product video presentations.  This video 
 
 # Group meeting
 
-Conduct a group meeting for the remainder of the hour.  Check your project milestones, progress and make plans to practice and finish your presentation by next week. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Minimum Viable Product Storyboard Review</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Shoutouts</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Storyboard Review</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Next Week! Minimum Viable Product Videos</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Group meeting</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Conduct a group meeting for the remainder of the hour.  Check your project milestones, progress and make plans to practice and finish your presentation by next week.

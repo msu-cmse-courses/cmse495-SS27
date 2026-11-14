@@ -85,30 +85,3 @@ Reports that are repetitive, generic, or disconnected from the team's actual pro
 ## Connection to Future Milestones
 
 This report should serve as the foundation for future project work.
-
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Project Exploration and Plan</summary>
-<ul>
-
-<li><a href="#purpose">Purpose</a></li>
-<li><a href="#deliverables">Deliverables</a></li>
-<ul>
-<li><a href="#1-project-overview">1. Project Overview</a></li>
-<li><a href="#2-project-exploration">2. Project Exploration</a></li>
-<li><a href="#3-success-criteria-and-evaluation">3. Success Criteria and Evaluation</a></li>
-<li><a href="#4-project-plan">4. Project Plan</a></li>
-<li><a href="#5-open-loops">5. Open Loops</a></li>
-<li><a href="#6-reflection">6. Reflection</a></li>
-</ul>
-<li><a href="#effective-use-of-ai">Effective Use of AI</a></li>
-<li><a href="#connection-to-future-milestones">Connection to Future Milestones</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

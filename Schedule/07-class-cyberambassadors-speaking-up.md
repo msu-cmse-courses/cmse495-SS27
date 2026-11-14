@@ -20,19 +20,3 @@ date: '2027-02-03'
 ## Daily Check-in
 
 [Daily Check-in form](../Guide/Daily_Check_In)
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Speaking Up</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-<li><a href="#cyberambassadors-speaking-up">CyberAmbassadors Speaking Up</a></li>
-<li><a href="#daily-check-in">Daily Check-in</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

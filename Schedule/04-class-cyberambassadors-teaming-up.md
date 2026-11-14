@@ -31,20 +31,3 @@ Reminder, the [Project Orginization Milestone](../Guide/Milestone_Roadmap) is du
 ## Daily Check-in
 
 [Daily Check-in form](../Guide/Daily_Check_In)
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Teaming Up</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-<li><a href="#team-assignments">Team Assignments</a></li>
-<li><a href="#teaming-up">Teaming up</a></li>
-<li><a href="#daily-check-in">Daily Check-in</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

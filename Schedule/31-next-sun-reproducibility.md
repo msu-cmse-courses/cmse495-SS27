@@ -63,23 +63,4 @@ The following is a basic rubric that will be used to evaluate your submission.  
 * (10 points) Working demo code.
     - Demo code runs after install and seems to be working
 * (50 points) Figure Reproducibility Instructions 
-    - Instructors able to follow the instructions with no confusing or missing steps. 
-
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Reproducibility</summary>
-<ul>
-
-<li><a href="#1-deliverables">1. Deliverables</a></li>
-<li><a href="#2-what-to-include">2. What to include</a></li>
-<li><a href="#submission">Submission</a></li>
-<li><a href="#evaluation-and-rubric">Evaluation and Rubric</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+    - Instructors able to follow the instructions with no confusing or missing steps.

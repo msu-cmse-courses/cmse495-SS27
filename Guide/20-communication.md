@@ -107,27 +107,3 @@ These ideas are reinforced through the structure of the course:
 
 These are not separate assignments.  
 They are tools to help you build strong communication and professional habits over time.
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Team Communication Guide</summary>
-<ul>
-
-<li><a href="#cmse--data-science--software-engineering-projects">CMSE / Data Science / Software Engineering Projects</a></li>
-<ul>
-<li><a href="#core-principle">Core Principle</a></li>
-</ul>
-<li><a href="#stories-bias-and-miscommunication">Stories, Bias, and Miscommunication</a></li>
-<li><a href="#trust-in-communication">Trust in Communication</a></li>
-<li><a href="#how-to-communicate-clearly">How to Communicate Clearly</a></li>
-<li><a href="#communicate-early-and-often">Communicate Early and Often</a></li>
-<li><a href="#working-with-instructors">Working with Instructors</a></li>
-<li><a href="#bottom-line">Bottom Line</a></li>
-<li><a href="#putting-this-into-practice">Putting This Into Practice</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

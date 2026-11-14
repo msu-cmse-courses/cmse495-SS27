@@ -59,26 +59,3 @@ To get credit for this assignment submit your meeting notes to your teams drive.
 ## Daily Check-in
 
 [Daily Check-in form](../Guide/Daily_Check_In)
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Team Meeting</summary>
-<ul>
-
-<li><a href="#class-agenda-110-minutes">Class Agenda (110 Minutes)</a></li>
-<li><a href="#sit-with-your-teams">Sit with your teams</a></li>
-<li><a href="#tower-building-exersize">Tower Building Exersize</a></li>
-<li><a href="#techtalk">TechTalk</a></li>
-<li><a href="#first-team-working-meeting">First Team "Working" Meeting</a></li>
-<ul>
-<li><a href="#meeting-agenda">Meeting Agenda</a></li>
-</ul>
-<li><a href="#getting-credit-for-this-assignment">Getting Credit for this assignment</a></li>
-<li><a href="#daily-check-in">Daily Check-in</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

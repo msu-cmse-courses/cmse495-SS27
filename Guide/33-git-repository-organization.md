@@ -148,26 +148,3 @@ The following repositories demonstrate the level of organization and documentati
 - [F19 Visualization of the Transport of Small Molecules on Peptides](https://gitlab.msu.edu/xieyan/yanxiecmse802.git)
 
 There is no single correct repository layout. The goal is to create a repository that is professional, well documented, easy to navigate, and maintainable by others long after the semester ends.
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Git Repository Expectations</summary>
-<ul>
-
-<li><a href="#repository-structure">Repository Structure</a></li>
-<ul>
-<li><a href="#licensing-file">Licensing file</a></li>
-</ul>
-<li><a href="#required-practices">Required Practices</a></li>
-<li><a href="#collaboration">Collaboration</a></li>
-<li><a href="#repository-access">Repository Access</a></li>
-<li><a href="#files-that-should-not-be-tracked">Files That Should Not Be Tracked</a></li>
-<li><a href="#jupyter-notebooks">Jupyter Notebooks</a></li>
-<li><a href="#example-repositories">Example Repositories</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

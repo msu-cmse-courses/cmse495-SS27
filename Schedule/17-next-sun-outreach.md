@@ -73,39 +73,3 @@ Grade Distribution:
 # Post Evaluation
 
 If final approval has been given, your team slides will be posted in the hall outside of the CMSE main office and the blog post will be edited/added to the CMSE495 website. Links to the blog post will be also be posted to the [CMSE495 Linked-in group](https://www.linkedin.com/groups/14467768/).
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Assignment - Project Media Outreach</summary>
-<ul>
-
-<li><a href="#powerpoint-slide">PowerPoint Slide</a></li>
-<li><a href="#blog-post">Blog Post</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Submission</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Evaluation</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Post Evaluation</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

@@ -8,16 +8,3 @@ layout: guide
 > To get credit for the Honor's Option students must receive an overall class grade of 3.0 or higher, contribute to the documentation management team and email a short (less than 1-page) report to the instructors before the last day of class describing what they learned being on the management team and a list of tasks/responsibilities that they were responsible for managing.
 
 If you are interested in getting credit for the Honor's option, please fill out the forms required by the Honor's College (using the two paragraphs above in your justification) and email your instructors letting them know you would like to be included on the documentation management team.
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Honor's Option (Documentation Management team)</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

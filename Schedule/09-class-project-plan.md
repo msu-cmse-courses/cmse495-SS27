@@ -80,39 +80,4 @@ As a group review the other team's proposal(s) and provide them some constructiv
 
 When typing up the proposal feedback, try to avoid words like you/your when giving criticism (criticize the project not the people). Even better, word your criticisms as specific suggestions for improvements.  
 
-When you are done writing up your feedback, read over your own teams feedback and ask for any clarifications. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Project Plans and Schedules</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Announcements, Feedback, Review and Check-ins</summary>
-<ul>
-
-<li><a href="#course-feedback">Course Feedback</a></li>
-<li><a href="#catme-team-review">CATME team review</a></li>
-<ul>
-<li><a href="#student-video-on-peer-to-peer-content">Student video on peer-to-peer content</a></li>
-</ul>
-<li><a href="#shout-outs">Shout-Outs</a></li>
-<li><a href="#proposal-presentation">Proposal Presentation</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Project Plan Reviews</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+When you are done writing up your feedback, read over your own teams feedback and ask for any clarifications.

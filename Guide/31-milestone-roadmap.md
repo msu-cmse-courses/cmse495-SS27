@@ -61,23 +61,3 @@ Milestones are project checkpoints, not isolated assignments.
 Strong teams look ahead, identify open loops, define success criteria, assign ownership where appropriate, and use each milestone to move the project closer to a successful final outcome.
 
 The most successful teams treat milestone work as living project documentation that evolves throughout the semester rather than a collection of one-time assignments.
-
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Course Milestone Roadmap</summary>
-<ul>
-
-<li><a href="#core-idea">Core Idea</a></li>
-<li><a href="#deadline-cadence">Deadline Cadence</a></li>
-<li><a href="#planning-ahead">Planning Ahead</a></li>
-<li><a href="#project-vocabulary">Project Vocabulary</a></li>
-<li><a href="#bottom-line">Bottom Line</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

@@ -157,28 +157,3 @@ Please also see rubrics from previous milestone assignments for other details.  
 -----
 
 ### Congratulations, you are done!
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Final Project and Video</summary>
-<ul>
-
-<li><a href="#teams-folder">Teams folder</a></li>
-<li><a href="#git-repository">Git Repository</a></li>
-<li><a href="#posting-your-video">Posting your video</a></li>
-<ul>
-<li><a href="#video-submission">Video Submission</a></li>
-</ul>
-<li><a href="#final-submission">Final Submission</a></li>
-<li><a href="#extensions">Extensions</a></li>
-<li><a href="#evaluation">Evaluation</a></li>
-<ul>
-<li><a href="#congratulations-you-are-done">Congratulations, you are done!</a></li>
-</ul>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

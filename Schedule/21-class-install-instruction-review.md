@@ -58,40 +58,4 @@ Note, the above instructions may not work for all projects.  Some projects may r
 
 # Group meeting
 
-Conduct a group meeting for the remainder of the class.  Check your project milestones, progress and make plans to practice and finish your presentation by next week. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Install Instruction Review</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Shout-Outs</summary>
-<ul>
-
-<li><a href="#new-teams-of-teams-parings">NEW Teams of Teams Parings</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Install Instruction Reviews</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Group meeting</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Conduct a group meeting for the remainder of the class.  Check your project milestones, progress and make plans to practice and finish your presentation by next week.

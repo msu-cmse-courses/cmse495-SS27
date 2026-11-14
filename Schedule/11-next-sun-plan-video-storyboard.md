@@ -47,32 +47,4 @@ Here is a breakdown of the points:
 
 #  Post Evaluation
 
-Review the feedback from your classmates and slides. Add additional information to your storyboard and start making the first part of the video. 
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Project Plan Video Storyboard</summary>
-<ul>
-
-<li><a href="#submission">Submission</a></li>
-</ul>
-</details>
-
-<details>
-<summary>3. Evaluation</summary>
-<ul>
-
-</ul>
-</details>
-
-<details>
-<summary>Post Evaluation</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+Review the feedback from your classmates and slides. Add additional information to your storyboard and start making the first part of the video.

@@ -101,27 +101,3 @@ For each role it is recommended that you assign a primary and secondary person t
 
 
 Successful teams will divide the work into roles and goals for the team.  How y
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Team Charter</summary>
-<ul>
-
-<li><a href="#purpose">Purpose</a></li>
-<li><a href="#core-principle">Core Principle</a></li>
-<li><a href="#living-document">Living Document</a></li>
-<li><a href="#what-a-team-charter-includes">What a Team Charter Includes</a></li>
-<li><a href="#why-instructors-review-team-charters">Why Instructors Review Team Charters</a></li>
-<li><a href="#using-the-charter-throughout-the-semester">Using the Charter Throughout the Semester</a></li>
-<ul>
-<li><a href="#team-charter">Team Charter</a></li>
-<li><a href="#team-organization---roles">Team Organization - Roles</a></li>
-</ul>
-<li><a href="#suggested-capstone-team-roles-collaborative-leadership-model">Suggested Capstone Team Roles (Collaborative Leadership Model)</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->

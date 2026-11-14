@@ -16,26 +16,3 @@ date: '2027-04-05'
 # Leading with Principles
 
 [Link to slides](https://docs.google.com/presentation/d/1iA8JLfZJyEJag2L9K3Oyro6ZQkWEiIATBChcIc7h0i4/edit?usp=sharing)
-
-
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Leading with Principles</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Leading with Principles</summary>
-<ul>
-
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
