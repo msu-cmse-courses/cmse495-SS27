@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-03-17'
+date: '2026-11-17'
 ---
+
 
 
 # CyberAmbassadors - Leading the Team

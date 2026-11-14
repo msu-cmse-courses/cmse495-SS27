@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-24'
+date: '2026-10-22'
 ---
+
 
 
 # CyberAmbassadors - Leveling up

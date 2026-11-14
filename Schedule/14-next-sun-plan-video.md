@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-21'
+date: '2026-10-18'
 ---
+
 
 
 # Project Proposal Video

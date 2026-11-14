@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-03-24'
+date: '2026-12-01'
 ---
+
 
 
 # Work on Tutorials

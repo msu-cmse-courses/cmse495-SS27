@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-01-25'
+date: '2026-09-03'
 ---
+
 
 # Project Selection Workshop
 

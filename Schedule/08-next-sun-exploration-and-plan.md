@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-07'
+date: '2026-09-27'
 ---
+
 
 # Project Exploration and Plan
 

@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-01-31'
+date: '2026-09-06'
 ---
+
 
 # MILESTONE - Project Preferences
 

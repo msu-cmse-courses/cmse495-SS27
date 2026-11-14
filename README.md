@@ -101,7 +101,11 @@ This template can also run a reminder check before push:
 make install-hooks
 ```
 
-This helps ensure generated files are kept in sync before a publish.
+This activates the repository's pre-push check. Before each push, it runs the
+schedule target specified by `schedule_make_target` in `_config.yml` and blocks
+the push if `_data/schedule.yml`, `_data/schedule_warnings.yml`, or
+`course_calendar.ics` need to be committed. Set that value to `schedule-fall`
+or `schedule-spring` when migrating the site to a new semester.
 
 ## Recommended publishing workflow
 
@@ -128,4 +132,3 @@ This helps ensure generated files are kept in sync before a publish.
 - Ruby/Bundler for Jekyll
 - Jekyll via the repository's `Gemfile`
 - `pyyaml` and related Python tooling for schedule generation
-

@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-10'
+date: '2026-10-01'
 ---
+
 
 
 # CyberAmbassadors - Let's Talk 

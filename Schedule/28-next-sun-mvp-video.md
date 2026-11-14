@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-04-04'
+date: '2026-12-13'
 ---
+
 
 
 ### Minimum Viable Product Video

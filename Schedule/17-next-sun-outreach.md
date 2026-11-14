@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-28'
+date: '2026-11-01'
 ---
+
 
 
 # Assignment - Project Media Outreach

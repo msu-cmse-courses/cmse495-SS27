@@ -28,6 +28,9 @@ Edit [`_config.yml`](./_config.yml):
 1. Set `title` and `description` for the course and semester.
 2. Change `baseurl` to the new repository name, for example
    `/cmse495-FS28`.
+3. Set `schedule_make_target` to `schedule-fall` or `schedule-spring` for the
+   upcoming term. The pre-push check uses this target to verify generated
+   schedule files.
 
 
 Also update the semester heading and any prior-semester references on
@@ -144,6 +147,16 @@ This refreshes:
 Open `schedule_warnings.yml` immediately. Resolve every warning unless it
 represents an intentional exception. In particular, a missing `NN-class-*`
 page produces a `TBD` item on the published schedule.
+
+Install the pre-push check once in each local clone:
+
+```bash
+make install-hooks
+```
+
+The check regenerates the outputs before every push and blocks the push if the
+generated files differ from the committed versions. After it blocks a push, add
+the regenerated files to the commit and push again.
 
 ## 8. Preview, review, and publish
 

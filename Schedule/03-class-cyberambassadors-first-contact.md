@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-01-22'
+date: '2026-09-08'
 ---
+
 
 
 #  Project Introductions and CyberAmbassadors - First Contact

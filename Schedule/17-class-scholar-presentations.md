@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-26'
+date: '2026-10-29'
 ---
+
 
 
 # In-Class Assignment: SCHOLAR Cleaning

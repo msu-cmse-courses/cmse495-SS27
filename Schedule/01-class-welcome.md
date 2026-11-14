@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-01-20'
+date: '2026-09-01'
 ---
+
 
 # Welcome
 

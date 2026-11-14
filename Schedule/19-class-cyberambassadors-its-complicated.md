@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-03-03'
+date: '2026-11-05'
 ---
+
 
 
 # CyberAmbassadors - It's Complicated

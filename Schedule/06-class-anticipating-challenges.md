@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-01'
+date: '2026-09-17'
 ---
+
 
 # In-Class ASSIGNMENT: Team Charter Review
 

@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-05'
+date: '2026-09-24'
 ---
+
 
 
 # In-Class Assignment: SCHOLAR Tutorial Review

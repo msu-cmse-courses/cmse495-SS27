@@ -4,7 +4,11 @@ set -euo pipefail
 repo_root="$(git rev-parse --show-toplevel)"
 cd "$repo_root"
 
-target="${SCHEDULE_MAKE_TARGET:-schedule-fall}"
+target="${SCHEDULE_MAKE_TARGET:-}"
+if [[ -z "$target" ]]; then
+  target="$(awk -F: '$1 == "schedule_make_target" { print $2; exit }' _config.yml | tr -d '[:space:]')"
+fi
+target="${target:-schedule-fall}"
 
 echo "[pre-push] Verifying generated schedule files with: make $target"
 

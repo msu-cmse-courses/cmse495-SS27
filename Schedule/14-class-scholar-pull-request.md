@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-19'
+date: '2026-10-15'
 ---
+
 
 
 # In-Class Assignment: Pull Request

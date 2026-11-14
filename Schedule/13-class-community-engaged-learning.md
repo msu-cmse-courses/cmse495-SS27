@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-02-17'
+date: '2026-10-13'
 ---
+
 
 
 # Community Engaged Learning - Core Concepts
