@@ -241,9 +241,9 @@ DESCRIPTION:Course day: Day17\\nDetails: /cmse495-SS27/Schedule/17-next-sun
 URL:/cmse495-SS27/Schedule/17-next-sun-outreach
 END:VEVENT
 BEGIN:VEVENT
-UID:c6fa85875037d76d83b02abfe3b403eabd85469b@course-website-template
+UID:9d5ad848b553ee8d0aed66ef0a036fac0cb574ea@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Installation Code Review
+SUMMARY:Outreach Review
 DTSTART:20270301T123000
 DTEND:20270301T134000
 DESCRIPTION:Course day: Day18\\nDetails: /cmse495-SS27/Schedule/18-class-ou
@@ -497,9 +497,9 @@ DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-class-sc
 URL:/cmse495-SS27/Schedule/35-class-scholar-tutorial-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:097853e9767306fe2a2ca89fd9ae002b4128ff37@course-website-template
+UID:bc3cf6c04d6a53c3e1833e34ae524fef73f8ea12@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:MILESTONE Final Videos and Presentations
+SUMMARY:MILESTONE Final Videos and Presentation Plan
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-next-sun
