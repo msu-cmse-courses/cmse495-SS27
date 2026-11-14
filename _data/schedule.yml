@@ -24,13 +24,13 @@
   day_id: Day02
 - date: '2027-01-25'
   week_start: '2027-01-25'
-  title: Project Introductions and CyberAmbassadors - First Contact
+  title: CYBERAMBASSADORS First Contact
   url: /Schedule/03-class-cyberambassadors-first-contact
   event_type: class
   day_id: Day03
 - date: '2027-01-27'
   week_start: '2027-01-25'
-  title: CyberAmbassadors - Teaming Up
+  title: CYBERAMBASSADORS Teaming Up
   url: /Schedule/04-class-cyberambassadors-teaming-up
   event_type: class
   day_id: Day04
@@ -48,13 +48,13 @@
   day_id: Day05
 - date: '2027-02-01'
   week_start: '2027-02-01'
-  title: 'In-Class ASSIGNMENT: Team Charter Review'
+  title: Anticipating Challenges
   url: /Schedule/06-class-anticipating-challenges
   event_type: class
   day_id: Day06
 - date: '2027-02-03'
   week_start: '2027-02-01'
-  title: CyberAmbassadors - Speaking Up
+  title: CYBERAMBASSADORS Speaking Up
   url: /Schedule/07-class-cyberambassadors-speaking-up
   event_type: class
   day_id: Day07
@@ -78,7 +78,7 @@
   day_id: Day09
 - date: '2027-02-10'
   week_start: '2027-02-08'
-  title: CyberAmbassadors - Let's Talk
+  title: CYBERAMBASSADORS Let's Talk
   url: /Schedule/10-class-cyberambassadors-lets-talk
   event_type: class
   day_id: Day10
@@ -126,7 +126,7 @@
   day_id: Day15
 - date: '2027-02-24'
   week_start: '2027-02-22'
-  title: CyberAmbassadors - Leveling up
+  title: CYBERAMBASSADORS Leveling up
   url: /Schedule/16-class-cyberambassadors-leveling-up
   event_type: class
   day_id: Day16
@@ -150,7 +150,7 @@
   day_id: Day18
 - date: '2027-03-03'
   week_start: '2027-03-01'
-  title: CyberAmbassadors - It's Complicated
+  title: CYBERAMBASSADORS It's Complicated
   url: /Schedule/19-class-cyberambassadors-its-complicated
   event_type: class
   day_id: Day19
@@ -216,7 +216,7 @@
   day_id: Day21
 - date: '2027-03-17'
   week_start: '2027-03-15'
-  title: CyberAmbassadors - Leading the Team
+  title: CYBERAMBASSADORS Leading the Team
   url: /Schedule/22-class-cyberambassadors-leading-the-team
   event_type: class
   day_id: Day22
@@ -234,7 +234,7 @@
   day_id: Day23
 - date: '2027-03-22'
   week_start: '2027-03-22'
-  title: CyberAmbassadors - Leading the Change
+  title: CYBERAMBASSADORS Leading the Change
   url: /Schedule/24-class-cyberambassadors-leading-the-change
   event_type: class
   day_id: Day24
@@ -282,7 +282,7 @@
   day_id: Day28
 - date: '2027-04-05'
   week_start: '2027-04-05'
-  title: CyberAmbassadors - Leading with Principles
+  title: CYBERAMBASSADORS Leading with Principles
   url: /Schedule/30-class-cyberambassadors-leading-with-principles
   event_type: class
   day_id: Day30
@@ -324,7 +324,7 @@
   day_id: Day35
 - date: '2027-04-18'
   week_start: '2027-04-12'
-  title: MILESTONE - Project Draft
+  title: MILESTONE Project Draft
   url: /Schedule/34-next-sun-full-project-draft
   event_type: next
   day_id: Day34
@@ -390,7 +390,7 @@
   day_id: Day41
 - date: '2027-05-02'
   week_start: '2027-04-26'
-  title: MILESTONE - Final Project and Video
+  title: MILESTONE Final Project and Video
   url: /Schedule/39-next-sun-final-project
   event_type: next
   day_id: Day39

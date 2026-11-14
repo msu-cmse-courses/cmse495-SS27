@@ -41,9 +41,9 @@ DESCRIPTION:Course day: Day02\\nDetails: /cmse495-SS27/Schedule/02-next-sun
 URL:/cmse495-SS27/Schedule/02-next-sun-project-preferences
 END:VEVENT
 BEGIN:VEVENT
-UID:dd29dfad98adb6241e5e50a4604552d707066874@course-website-template
+UID:bfec8c7452a02c327ec1c2c808c1047291e6bb67@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Introductions and CyberAmbassadors - First Contact
+SUMMARY:CYBERAMBASSADORS First Contact
 DTSTART:20270125T123000
 DTEND:20270125T134000
 DESCRIPTION:Course day: Day03\\nDetails: /cmse495-SS27/Schedule/03-class-cy
@@ -51,9 +51,9 @@ DESCRIPTION:Course day: Day03\\nDetails: /cmse495-SS27/Schedule/03-class-cy
 URL:/cmse495-SS27/Schedule/03-class-cyberambassadors-first-contact
 END:VEVENT
 BEGIN:VEVENT
-UID:71b7c6d1a0ecf2cf825071348602f85274e54d44@course-website-template
+UID:ddf0447cd78ace850b58fabec4f95a1664cba43f@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - Teaming Up
+SUMMARY:CYBERAMBASSADORS Teaming Up
 DTSTART:20270127T123000
 DTEND:20270127T134000
 DESCRIPTION:Course day: Day04\\nDetails: /cmse495-SS27/Schedule/04-class-cy
@@ -81,9 +81,9 @@ DESCRIPTION:Course day: Day05\\nDetails: /cmse495-SS27/Schedule/05-next-sun
 URL:/cmse495-SS27/Schedule/05-next-sun-project-organization
 END:VEVENT
 BEGIN:VEVENT
-UID:68e92cc6c82407c6310e7fe9f8e568b2a05a48c4@course-website-template
+UID:599f05a9be89b517da79c0fdc4b744291221635b@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:In-Class ASSIGNMENT: Team Charter Review
+SUMMARY:Anticipating Challenges
 DTSTART:20270201T123000
 DTEND:20270201T134000
 DESCRIPTION:Course day: Day06\\nDetails: /cmse495-SS27/Schedule/06-class-an
@@ -91,9 +91,9 @@ DESCRIPTION:Course day: Day06\\nDetails: /cmse495-SS27/Schedule/06-class-an
 URL:/cmse495-SS27/Schedule/06-class-anticipating-challenges
 END:VEVENT
 BEGIN:VEVENT
-UID:96bd4e3ae1230889214aedce4d1b9e20899c0a66@course-website-template
+UID:8683ba2663bf71b9fdc7ad6d747bb1117f28bec7@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - Speaking Up
+SUMMARY:CYBERAMBASSADORS Speaking Up
 DTSTART:20270203T123000
 DTEND:20270203T134000
 DESCRIPTION:Course day: Day07\\nDetails: /cmse495-SS27/Schedule/07-class-cy
@@ -131,9 +131,9 @@ DESCRIPTION:Course day: Day09\\nDetails: /cmse495-SS27/Schedule/09-class-pr
 URL:/cmse495-SS27/Schedule/09-class-project-plan
 END:VEVENT
 BEGIN:VEVENT
-UID:e6aeaea067d20a022e5501de29ad03124c4d8a74@course-website-template
+UID:32b0a8f66d7ab2584a1b64daed80d8b12b1f9084@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - Let's Talk
+SUMMARY:CYBERAMBASSADORS Let's Talk
 DTSTART:20270210T123000
 DTEND:20270210T134000
 DESCRIPTION:Course day: Day10\\nDetails: /cmse495-SS27/Schedule/10-class-cy
@@ -211,9 +211,9 @@ DESCRIPTION:Course day: Day15\\nDetails: /cmse495-SS27/Schedule/15-class-pr
 URL:/cmse495-SS27/Schedule/15-class-proposal-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:e616acb7a129a5d8952903825a75e9caf4c6b867@course-website-template
+UID:a3b4d4524c642ac787f5b0f5f4082430bfefde18@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - Leveling up
+SUMMARY:CYBERAMBASSADORS Leveling up
 DTSTART:20270224T123000
 DTEND:20270224T134000
 DESCRIPTION:Course day: Day16\\nDetails: /cmse495-SS27/Schedule/16-class-cy
@@ -251,9 +251,9 @@ DESCRIPTION:Course day: Day18\\nDetails: /cmse495-SS27/Schedule/18-class-ou
 URL:/cmse495-SS27/Schedule/18-class-outreach-review
 END:VEVENT
 BEGIN:VEVENT
-UID:4a66a1fb2c7376bc80ee8249e9d3c24d44b919d3@course-website-template
+UID:edc5b98f34910d22a90382da74602d59fb009ff0@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - It's Complicated
+SUMMARY:CYBERAMBASSADORS It's Complicated
 DTSTART:20270303T123000
 DTEND:20270303T134000
 DESCRIPTION:Course day: Day19\\nDetails: /cmse495-SS27/Schedule/19-class-cy
@@ -340,9 +340,9 @@ DESCRIPTION:Course day: Day21\\nDetails: /cmse495-SS27/Schedule/21-class-in
 URL:/cmse495-SS27/Schedule/21-class-install-instruction-review
 END:VEVENT
 BEGIN:VEVENT
-UID:6c969d65517539103f5358407be179a234140fb7@course-website-template
+UID:dff1b13a6edd4ca00d105f9af3854b32a8fd4825@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - Leading the Team
+SUMMARY:CYBERAMBASSADORS Leading the Team
 DTSTART:20270317T123000
 DTEND:20270317T134000
 DESCRIPTION:Course day: Day22\\nDetails: /cmse495-SS27/Schedule/22-class-cy
@@ -370,9 +370,9 @@ DESCRIPTION:Course day: Day23\\nDetails: /cmse495-SS27/Schedule/23-next-sun
 URL:/cmse495-SS27/Schedule/23-next-sun-install-instructions
 END:VEVENT
 BEGIN:VEVENT
-UID:295fd6419a8e1359dee7f0d9b020ab16fa0fd733@course-website-template
+UID:33434f624e419e6aae6567ae97c7ef5882853acf@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - Leading the Change
+SUMMARY:CYBERAMBASSADORS Leading the Change
 DTSTART:20270322T123000
 DTEND:20270322T134000
 DESCRIPTION:Course day: Day24\\nDetails: /cmse495-SS27/Schedule/24-class-cy
@@ -450,9 +450,9 @@ DESCRIPTION:Course day: Day28\\nDetails: /cmse495-SS27/Schedule/28-next-sun
 URL:/cmse495-SS27/Schedule/28-next-sun-mvp-video
 END:VEVENT
 BEGIN:VEVENT
-UID:aa8d6fbc656f2c1493ed57ccb722e4a1a11c8f2e@course-website-template
+UID:e1fc07a3ef0fa0c9dd17c74ce7e94dfd4acf1a92@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:CyberAmbassadors - Leading with Principles
+SUMMARY:CYBERAMBASSADORS Leading with Principles
 DTSTART:20270405T123000
 DTEND:20270405T134000
 DESCRIPTION:Course day: Day30\\nDetails: /cmse495-SS27/Schedule/30-class-cy
@@ -521,9 +521,9 @@ DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-class-fu
 URL:/cmse495-SS27/Schedule/35-class-full-project-review
 END:VEVENT
 BEGIN:VEVENT
-UID:c2344588f0099eee0cefb69721769fd4d95f7593@course-website-template
+UID:fa48b705720518282bc6e0d7d1e633255fa4d5a8@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:MILESTONE - Project Draft
+SUMMARY:MILESTONE Project Draft
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 DESCRIPTION:Course day: Day34\\nDetails: /cmse495-SS27/Schedule/34-next-sun
@@ -631,9 +631,9 @@ DESCRIPTION:Course day: Day41\\nDetails: /cmse495-SS27/Schedule/41-same-fin
 URL:/cmse495-SS27/Schedule/41-same-final-extended-deadline
 END:VEVENT
 BEGIN:VEVENT
-UID:5e9fb961048bcc0296970751fba9d402c4989ddc@course-website-template
+UID:ce43944e8418d863adc8c80cf35db0d1d487c963@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:MILESTONE - Final Project and Video
+SUMMARY:MILESTONE Final Project and Video
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 DESCRIPTION:Course day: Day39\\nDetails: /cmse495-SS27/Schedule/39-next-sun
