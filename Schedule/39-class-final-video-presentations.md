@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-04-28'
+date: '2027-04-26'
 ---
+
 
 # Minimum Viable Product Demo Presentations
 

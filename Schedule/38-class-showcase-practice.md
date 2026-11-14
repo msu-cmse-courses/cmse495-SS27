@@ -1,7 +1,8 @@
 ---
 layout: schedule
-date: '2027-04-26'
+date: '2027-04-23'
 ---
+
 
 # Showcase Practice
 ## Today's Agenda (110 Minutes)
