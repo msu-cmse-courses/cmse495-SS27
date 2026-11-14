@@ -234,8 +234,8 @@
   day_id: Day26
 - date: '2027-03-28'
   week_start: '2027-03-22'
-  title: MILESTONE Storyboard Update
-  url: /Schedule/26-next-sun-second-video-storyboard
+  title: MILESTONE Minimum Viable Project Video
+  url: /Schedule/26-next-sun-mvp-video
   event_type: next
   day_id: Day26
 - date: '2027-03-29'
@@ -258,8 +258,8 @@
   day_id: Day29
 - date: '2027-04-04'
   week_start: '2027-03-29'
-  title: MILESTONE Minimum Viable Project Video
-  url: /Schedule/29-next-sun-mvp-video
+  title: MILESTONE Reproducibility
+  url: /Schedule/29-next-sun-reproducibility
   event_type: next
   day_id: Day29
 - date: '2027-04-05'
@@ -282,8 +282,8 @@
   day_id: Day32
 - date: '2027-04-11'
   week_start: '2027-04-05'
-  title: MILESTONE Reproducibility
-  url: /Schedule/32-next-sun-reproducibility
+  title: MILESTONE Project Draft
+  url: /Schedule/32-next-sun-full-project-draft
   event_type: next
   day_id: Day32
 - date: '2027-04-12'
@@ -306,8 +306,8 @@
   day_id: Day35
 - date: '2027-04-18'
   week_start: '2027-04-12'
-  title: MILESTONE Project Draft
-  url: /Schedule/35-next-sun-full-project-draft
+  title: MILESTONE Final Videos and Presentations
+  url: /Schedule/35-next-sun-final-videos-and-presentations
   event_type: next
   day_id: Day35
 - date: '2027-04-19'
@@ -336,7 +336,7 @@
   day_id: Day38
 - date: '2027-04-26'
   week_start: '2027-04-26'
-  title: Minimum Viable Product Demo Presentations
+  title: Final Video Reviews
   url: /Schedule/39-class-final-video-presentations
   event_type: class
   day_id: Day39
