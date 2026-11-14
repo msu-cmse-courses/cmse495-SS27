@@ -235,13 +235,13 @@
 - date: '2027-03-28'
   week_start: '2027-03-22'
   title: MILESTONE Storyboard Update
-  url: /Schedule/25-next-sun-second-video-storyboard
+  url: /Schedule/26-next-sun-second-video-storyboard
   event_type: next
-  day_id: Day25
+  day_id: Day26
 - date: '2027-03-29'
   week_start: '2027-03-29'
-  title: TBD
-  url: null
+  title: Minimum Viable Product Storyboard Review
+  url: /Schedule/27-class-second-storyboard-review
   event_type: class
   day_id: Day27
 - date: '2027-03-31'
@@ -259,19 +259,19 @@
 - date: '2027-04-04'
   week_start: '2027-03-29'
   title: MILESTONE Minimum Viable Project Video
-  url: /Schedule/28-next-sun-mvp-video
+  url: /Schedule/29-next-sun-mvp-video
   event_type: next
-  day_id: Day28
+  day_id: Day29
 - date: '2027-04-05'
   week_start: '2027-04-05'
-  title: CYBERAMBASSADORS Leading with Principles
-  url: /Schedule/30-class-cyberambassadors-leading-with-principles
+  title: Minimum Viable Product Demo Presentations
+  url: /Schedule/30-class-mvp-presentations
   event_type: class
   day_id: Day30
 - date: '2027-04-07'
   week_start: '2027-04-05'
-  title: Minimum Viable Product Demo Presentations
-  url: /Schedule/31-class-mvp-presentations
+  title: CYBERAMBASSADORS Leading with Principles
+  url: /Schedule/31-class-cyberambassadors-leading-with-principles
   event_type: class
   day_id: Day31
 - date: '2027-04-09'
@@ -283,9 +283,9 @@
 - date: '2027-04-11'
   week_start: '2027-04-05'
   title: MILESTONE Reproducibility
-  url: /Schedule/31-next-sun-reproducibility
+  url: /Schedule/32-next-sun-reproducibility
   event_type: next
-  day_id: Day31
+  day_id: Day32
 - date: '2027-04-12'
   week_start: '2027-04-12'
   title: Figure Reproducibility initial documentation
@@ -307,9 +307,9 @@
 - date: '2027-04-18'
   week_start: '2027-04-12'
   title: MILESTONE Project Draft
-  url: /Schedule/34-next-sun-full-project-draft
+  url: /Schedule/35-next-sun-full-project-draft
   event_type: next
-  day_id: Day34
+  day_id: Day35
 - date: '2027-04-19'
   week_start: '2027-04-19'
   title: Full Project Review
@@ -318,8 +318,8 @@
   day_id: Day36
 - date: '2027-04-21'
   week_start: '2027-04-19'
-  title: Project Co-Work
-  url: /Schedule/37-class-project-cowork
+  title: Review Presentation Plan
+  url: /Schedule/37-class-review-presentation-plan
   event_type: class
   day_id: Day37
 - date: '2027-04-23'
@@ -330,14 +330,8 @@
   day_id: Day38
 - date: '2027-04-25'
   week_start: '2027-04-19'
-  title: MILESTONE - Final Videos and Presentations
-  url: /Schedule/37-next-sun-final-videos-and-presentations
-  event_type: next
-  day_id: Day37
-- date: '2027-04-25'
-  week_start: '2027-04-19'
-  title: MILESTONE Final Reflection
-  url: /Schedule/38-next-sun-personal-reflection
+  title: MILESTONE Final Project and Video
+  url: /Schedule/38-next-sun-final-project
   event_type: next
   day_id: Day38
 - date: '2027-04-26'
@@ -360,13 +354,13 @@
   day_id: Day41
 - date: '2027-05-02'
   week_start: '2027-04-26'
-  title: MILESTONE Final Project and Video
-  url: /Schedule/39-next-sun-final-project
+  title: Final Extended Deadline
+  url: /Schedule/41-next-sun-final-extended-deadline
   event_type: next
-  day_id: Day39
+  day_id: Day41
 - date: '2027-05-05'
   week_start: '2027-05-03'
-  title: Final Extended Deadline
-  url: /Schedule/39-plus-9-final-extended-deadline
+  title: MILESTONE Final Reflection
+  url: /Schedule/41-plus-5-personal-reflection
   event_type: plus
-  day_id: Day39
+  day_id: Day41
