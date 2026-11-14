@@ -9,7 +9,8 @@ date: '2027-01-20'
 ## Agenda (110 Minutes)
 
 - (20 minutes) Welcome Slides
-- (40 minutes) [Syllabus Review](../Guide/Syllabus)
+- (30 minutes) [Syllabus Review](../Guide/Syllabus)
+- (10 minutes) Your First Milestone
 - (30 minutes) Introduction Round-Robin
 - (20 minutes) Common Ground
 
@@ -18,23 +19,10 @@ date: '2027-01-20'
 
 - [Link to today's slides](https://docs.google.com/presentation/d/1PWqIeFjuFrZS7DkPx5HVqX9qO65ESlhaORCakvH63ds/edit?usp=sharing)
 
+## Your First Milestone
+
+- [Project Review and Preferences](./02-next-sun-project-preferences.md)
 
 ## Daily Check-in
 
-[Daily Check-in form](../Guide/Daily_Check_In)
-
-<!-- TOC_START -->
-<div class="page-toc">
-<h2>On this page</h2>
-
-<details>
-<summary>Welcome</summary>
-<ul>
-
-<li><a href="#agenda-110-minutes">Agenda (110 Minutes)</a></li>
-<li><a href="#welcome-presentation">Welcome Presentation</a></li>
-<li><a href="#daily-check-in">Daily Check-in</a></li>
-</ul>
-</details>
-</div>
-<!-- TOC_END -->
+[Daily Check-in form](../Guide/11-Daily_Check_In)

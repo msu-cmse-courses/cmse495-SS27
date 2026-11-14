@@ -4,7 +4,7 @@ date: '2027-02-24'
 ---
 
 
-# Leveling up
+# CyberAmbassadors - Leveling up
 
 
 ## Agenda (110 Minutes)

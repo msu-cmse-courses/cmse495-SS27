@@ -4,7 +4,7 @@ date: '2027-02-03'
 ---
 
 
-# Speaking Up
+# CyberAmbassadors - Speaking Up
 
 
 ## Agenda (110 Minutes)

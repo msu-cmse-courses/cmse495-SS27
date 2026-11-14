@@ -4,7 +4,7 @@ date: '2027-03-22'
 ---
 
 
-# Leading the Change
+# CyberAmbassadors - Leading the Change
 
 
 ## Agenda (110 Minutes)
