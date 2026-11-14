@@ -442,9 +442,9 @@ DESCRIPTION:Course day: Day29\\nDetails: /cmse495-SS27/Schedule/29-next-sun
 URL:/cmse495-SS27/Schedule/29-next-sun-reproducibility
 END:VEVENT
 BEGIN:VEVENT
-UID:a0b9d4d34ac705e59079e8c29f6d6d339e4a79a9@course-website-template
+UID:e4c3cb43d28369058bf6a23dc08589d84b48d1b4@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Figure Reproducibility initial documentation
+SUMMARY:Figure Reproducibility
 DTSTART:20270405T123000
 DTEND:20270405T134000
 DESCRIPTION:Course day: Day30\\nDetails: /cmse495-SS27/Schedule/30-class-fi
