@@ -5,8 +5,7 @@ date: '2027-02-01'
 
 
 
-# In-Class ASSIGNMENT: Team Charter Review
-
+# Anticipating Challenges 
 
 ## Agenda (110 Minutes)
 

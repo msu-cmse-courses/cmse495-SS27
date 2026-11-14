@@ -31,9 +31,9 @@ DESCRIPTION:Course day: Day02\\nDetails: /cmse495-SS27/Schedule/02-class-cl
 URL:/cmse495-SS27/Schedule/02-class-class-agenda-project-review
 END:VEVENT
 BEGIN:VEVENT
-UID:38d0efb026df5c6fff5c56d6c904d51e8eed0da0@course-website-template
+UID:5d72614ba0ac64cddfb36b02264e5cd15f9213bc@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:MILESTONE - Project Preferences
+SUMMARY:MILESTONE Project Preferences
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 DESCRIPTION:Course day: Day02\\nDetails: /cmse495-SS27/Schedule/02-next-sun
@@ -71,9 +71,9 @@ DESCRIPTION:Course day: Day05\\nDetails: /cmse495-SS27/Schedule/05-class-te
 URL:/cmse495-SS27/Schedule/05-class-team-meeting
 END:VEVENT
 BEGIN:VEVENT
-UID:965e5777580e541f91d957c5c4b678225a289403@course-website-template
+UID:f1096f2c2e7edf8841c6c5bed5ecaba3d5262db4@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Files - Organizing your Team and Project!
+SUMMARY:MILESTONE Project File Organization
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 DESCRIPTION:Course day: Day05\\nDetails: /cmse495-SS27/Schedule/05-next-sun
@@ -101,9 +101,9 @@ DESCRIPTION:Course day: Day07\\nDetails: /cmse495-SS27/Schedule/07-class-cy
 URL:/cmse495-SS27/Schedule/07-class-cyberambassadors-speaking-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3883db6009c63c6a555ebe2b85b22b504607a76b@course-website-template
+UID:fe9e874f37e4e16d7ec92c15089556ed5b574209@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:In-Class Assignment: SCHOLAR Tutorial Review
+SUMMARY:SCHOLAR Tutorial Review
 DTSTART:20270205T123000
 DTEND:20270205T134000
 DESCRIPTION:Course day: Day08\\nDetails: /cmse495-SS27/Schedule/08-class-sc
@@ -111,9 +111,9 @@ DESCRIPTION:Course day: Day08\\nDetails: /cmse495-SS27/Schedule/08-class-sc
 URL:/cmse495-SS27/Schedule/08-class-scholar-review
 END:VEVENT
 BEGIN:VEVENT
-UID:7df52c9ba6dcfb69ce79191315a0dab707d46e16@course-website-template
+UID:c67a38e42aaea76e6459b5121f685984ec8a5597@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Exploration and Plan
+SUMMARY:MILESTONE Project Exploration and Plan
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 DESCRIPTION:Course day: Day08\\nDetails: /cmse495-SS27/Schedule/08-next-sun
@@ -141,9 +141,9 @@ DESCRIPTION:Course day: Day10\\nDetails: /cmse495-SS27/Schedule/10-class-cy
 URL:/cmse495-SS27/Schedule/10-class-cyberambassadors-lets-talk
 END:VEVENT
 BEGIN:VEVENT
-UID:4cc6bd86cd3482bbd340db9ed9a369544763bdcd@course-website-template
+UID:1d9c659509129805f75b39879066e25a04efaae9@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:In-Class Assignment: Pull Request
+SUMMARY:SCHOLARS Pull Request
 DTSTART:20270212T123000
 DTEND:20270212T134000
 DESCRIPTION:Course day: Day11\\nDetails: /cmse495-SS27/Schedule/11-class-sc
@@ -151,9 +151,9 @@ DESCRIPTION:Course day: Day11\\nDetails: /cmse495-SS27/Schedule/11-class-sc
 URL:/cmse495-SS27/Schedule/11-class-scholar-pull-request
 END:VEVENT
 BEGIN:VEVENT
-UID:fa1d032f9c1d61ffdfec0ebbd2115b18147e6874@course-website-template
+UID:9af34420007b1004f31820dd79e104c96eb3d2a7@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Plan Video Storyboard
+SUMMARY:MILESTONE Project Plan Video Storyboard
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 DESCRIPTION:Course day: Day11\\nDetails: /cmse495-SS27/Schedule/11-next-sun
@@ -181,9 +181,9 @@ DESCRIPTION:Course day: Day13\\nDetails: /cmse495-SS27/Schedule/13-class-co
 URL:/cmse495-SS27/Schedule/13-class-community-engaged-learning
 END:VEVENT
 BEGIN:VEVENT
-UID:dbc8720b3b6e3dd7ab65ca50ef6bbf030ba97763@course-website-template
+UID:2d376cf56928449c89ee1efb2e8fed2bfe82f726@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:In-Class Assignment: Pull Request
+SUMMARY:SCHOLARS Pull Request
 DTSTART:20270219T123000
 DTEND:20270219T134000
 DESCRIPTION:Course day: Day14\\nDetails: /cmse495-SS27/Schedule/14-class-sc
@@ -191,9 +191,9 @@ DESCRIPTION:Course day: Day14\\nDetails: /cmse495-SS27/Schedule/14-class-sc
 URL:/cmse495-SS27/Schedule/14-class-scholar-pull-request
 END:VEVENT
 BEGIN:VEVENT
-UID:39787f9f0299534a0a9bd87246c1d56f3d9e8446@course-website-template
+UID:00c542693ef6d14c4acd18d67ede24ecc04474fe@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Proposal Video
+SUMMARY:MILESTONE Project Proposal Video
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 DESCRIPTION:Course day: Day14\\nDetails: /cmse495-SS27/Schedule/14-next-sun
@@ -221,9 +221,9 @@ DESCRIPTION:Course day: Day16\\nDetails: /cmse495-SS27/Schedule/16-class-cy
 URL:/cmse495-SS27/Schedule/16-class-cyberambassadors-leveling-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7bdcc788f4e1a1da3d458bf60623901fc9f1b5db@course-website-template
+UID:b3268bcd4bd07fdcafd38db6818124c007defd57@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:In-Class Assignment: SCHOLAR Cleaning
+SUMMARY:SCHOLAR Cleaning
 DTSTART:20270226T123000
 DTEND:20270226T134000
 DESCRIPTION:Course day: Day17\\nDetails: /cmse495-SS27/Schedule/17-class-sc
@@ -231,9 +231,9 @@ DESCRIPTION:Course day: Day17\\nDetails: /cmse495-SS27/Schedule/17-class-sc
 URL:/cmse495-SS27/Schedule/17-class-scholar-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:6ea888b06c9ec9a74e27415421448aa3c78e976a@course-website-template
+UID:f86ef1292469af0669fa15aeb2b8b4d46a5ca6cb@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Assignment - Project Media Outreach
+SUMMARY:MILESTONE Project Media Outreach
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 DESCRIPTION:Course day: Day17\\nDetails: /cmse495-SS27/Schedule/17-next-sun
@@ -261,9 +261,9 @@ DESCRIPTION:Course day: Day19\\nDetails: /cmse495-SS27/Schedule/19-class-cy
 URL:/cmse495-SS27/Schedule/19-class-cyberambassadors-its-complicated
 END:VEVENT
 BEGIN:VEVENT
-UID:f1bc275880174e710b7b23ef7ebc45f7b28d6d60@course-website-template
+UID:957632d762279e5102dc172fd277e20916ec0892@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Selection Matrix
+SUMMARY:SCHOLAR Selection Matrix
 DTSTART:20270305T123000
 DTEND:20270305T134000
 DESCRIPTION:Course day: Day20\\nDetails: /cmse495-SS27/Schedule/20-class-sc
@@ -271,9 +271,9 @@ DESCRIPTION:Course day: Day20\\nDetails: /cmse495-SS27/Schedule/20-class-sc
 URL:/cmse495-SS27/Schedule/20-class-scholar-selection-matrix
 END:VEVENT
 BEGIN:VEVENT
-UID:871821d5c27771df6958bbd6a9e461dd6c79ed71@course-website-template
+UID:27c95a54801547f1f883247c2b76ae26a1b1fb80@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Install Instructions - Project Reproducibility
+SUMMARY:MILESTONE Reproducable Install Instructions
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 DESCRIPTION:Course day: Day20\\nDetails: /cmse495-SS27/Schedule/20-next-sun
@@ -350,9 +350,9 @@ DESCRIPTION:Course day: Day22\\nDetails: /cmse495-SS27/Schedule/22-class-cy
 URL:/cmse495-SS27/Schedule/22-class-cyberambassadors-leading-the-team
 END:VEVENT
 BEGIN:VEVENT
-UID:057ab8fbd797087cded4ad51a3b6767549efcb8a@course-website-template
+UID:1eb6b21ddb6a2b53ae87c93c296136dd5f3502b9@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Tutorial Selection
+SUMMARY:SCHOLAR Tutorial Selection
 DTSTART:20270319T123000
 DTEND:20270319T134000
 DESCRIPTION:Course day: Day23\\nDetails: /cmse495-SS27/Schedule/23-class-sc
@@ -360,9 +360,9 @@ DESCRIPTION:Course day: Day23\\nDetails: /cmse495-SS27/Schedule/23-class-sc
 URL:/cmse495-SS27/Schedule/23-class-scholar-tutorial-selection
 END:VEVENT
 BEGIN:VEVENT
-UID:6820288c9f35a91e8da76b3316999de09fb47d53@course-website-template
+UID:359ecefefcddefebf91fc638247240b92c2a09a9@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Install Instructions - Project Reproducibility
+SUMMARY:MILESTONE Install Instructions - Project Reproducibility
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 DESCRIPTION:Course day: Day23\\nDetails: /cmse495-SS27/Schedule/23-next-sun
@@ -380,9 +380,9 @@ DESCRIPTION:Course day: Day24\\nDetails: /cmse495-SS27/Schedule/24-class-cy
 URL:/cmse495-SS27/Schedule/24-class-cyberambassadors-leading-the-change
 END:VEVENT
 BEGIN:VEVENT
-UID:3ca0cbba0cdd420dd0223f98107dafbcfa6ceb2e@course-website-template
+UID:0b094fc5216488d947986ffb15bc7ac4b3d632f7@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Work on Tutorials
+SUMMARY:SCHOLAR Work on Tutorials
 DTSTART:20270324T123000
 DTEND:20270324T134000
 DESCRIPTION:Course day: Day25\\nDetails: /cmse495-SS27/Schedule/25-class-sc
@@ -400,9 +400,9 @@ DESCRIPTION:Course day: Day26\\nDetails: /cmse495-SS27/Schedule/26-class-se
 URL:/cmse495-SS27/Schedule/26-class-second-storyboard-review
 END:VEVENT
 BEGIN:VEVENT
-UID:1bf8d448325189da69c87e3b7e52556bc86c09eb@course-website-template
+UID:53624f173654888ba58e6ace008857ef1c1d0dfa@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Storyboard Update
+SUMMARY:MILESTONE Storyboard Update
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 DESCRIPTION:Course day: Day25\\nDetails: /cmse495-SS27/Schedule/25-next-sun
@@ -420,9 +420,9 @@ DESCRIPTION:Course day: Day27\\nDetails: /cmse495-SS27/Schedule/27-class-pr
 URL:/cmse495-SS27/Schedule/27-class-project-cowork-1
 END:VEVENT
 BEGIN:VEVENT
-UID:685e42d24fb6b86030d96a3029035100a3a700f2@course-website-template
+UID:734ff68b1c6c18a16f4b1e8659e3951ee17fd02f@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Work on Tutorials
+SUMMARY:SCHOLAR Work on Tutorials
 DTSTART:20270331T123000
 DTEND:20270331T134000
 DESCRIPTION:Course day: Day28\\nDetails: /cmse495-SS27/Schedule/28-class-sc
@@ -440,9 +440,9 @@ DESCRIPTION:Course day: Day29\\nDetails: /cmse495-SS27/Schedule/29-class-mv
 URL:/cmse495-SS27/Schedule/29-class-mvp-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:1a0b889bf820debc673680c711f81acc764b6af5@course-website-template
+UID:775ec7eef78d72dea9a8067180c0e0acae8edfae@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Submission
+SUMMARY:MILESTONE Minimum Viable Project Video
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 DESCRIPTION:Course day: Day28\\nDetails: /cmse495-SS27/Schedule/28-next-sun
@@ -461,9 +461,9 @@ URL:/cmse495-SS27/Schedule/30-class-cyberambassadors-leading-with-principle
  s
 END:VEVENT
 BEGIN:VEVENT
-UID:31e54e033a7f484dcb87ea73f91c7ccd5e364b3e@course-website-template
+UID:1718161178841b6359cc02ecd441bf5aead2c620@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Deep Tutorial Review
+SUMMARY:SCHOLAR Deep Tutorial Review
 DTSTART:20270407T123000
 DTEND:20270407T134000
 DESCRIPTION:Course day: Day31\\nDetails: /cmse495-SS27/Schedule/31-class-sc
@@ -481,9 +481,9 @@ DESCRIPTION:Course day: Day32\\nDetails: /cmse495-SS27/Schedule/32-class-fi
 URL:/cmse495-SS27/Schedule/32-class-figure-reproducibility-review
 END:VEVENT
 BEGIN:VEVENT
-UID:6d8bb7b61aec4c6a2c1d13c101d3092067bd542f@course-website-template
+UID:78cbd27feea5010d39503f669dd2754a2c7ea5d6@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Reproducibility
+SUMMARY:MILESTONE Reproducibility
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 DESCRIPTION:Course day: Day31\\nDetails: /cmse495-SS27/Schedule/31-next-sun
@@ -501,9 +501,9 @@ DESCRIPTION:Course day: Day33\\nDetails: /cmse495-SS27/Schedule/33-class-pr
 URL:/cmse495-SS27/Schedule/33-class-project-cowork-2
 END:VEVENT
 BEGIN:VEVENT
-UID:0c644478d6fe45b7aaa117a6f20b5d08cc1e98b8@course-website-template
+UID:b27cab610a61da0b4b7b9b308d2f1317cf20a914@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Tutorial Presentations
+SUMMARY:SCHOLAR Tutorial Presentations
 DTSTART:20270414T123000
 DTEND:20270414T134000
 DESCRIPTION:Course day: Day34\\nDetails: /cmse495-SS27/Schedule/34-class-sc
@@ -521,9 +521,9 @@ DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-class-fu
 URL:/cmse495-SS27/Schedule/35-class-full-project-review
 END:VEVENT
 BEGIN:VEVENT
-UID:2657869afa3af5658c17eb5ce73c5f9869d36fd8@course-website-template
+UID:c2344588f0099eee0cefb69721769fd4d95f7593@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Draft
+SUMMARY:MILESTONE - Project Draft
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 DESCRIPTION:Course day: Day34\\nDetails: /cmse495-SS27/Schedule/34-next-sun
@@ -561,24 +561,24 @@ DESCRIPTION:Course day: Day38\\nDetails: /cmse495-SS27/Schedule/38-class-fi
 URL:/cmse495-SS27/Schedule/38-class-final-presentation-storyboard-feedback
 END:VEVENT
 BEGIN:VEVENT
-UID:f3f21a76ebb965ae8af80123b6ff0d91446f104c@course-website-template
+UID:5410021fefe4fc9a88aac8806c74af2a5d611724@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Final Reflection
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
-DESCRIPTION:Course day: Day38\\nDetails: /cmse495-SS27/Schedule/38-next-sun
- -personal-reflection
-URL:/cmse495-SS27/Schedule/38-next-sun-personal-reflection
-END:VEVENT
-BEGIN:VEVENT
-UID:affd07fb49f9b37da32de3099fbcbd21e219516f@course-website-template
-DTSTAMP:20270502T000000Z
-SUMMARY:Final Videos and Presentations
+SUMMARY:MILESTONE - Final Videos and Presentations
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 DESCRIPTION:Course day: Day37\\nDetails: /cmse495-SS27/Schedule/37-next-sun
  -final-videos-and-presentations
 URL:/cmse495-SS27/Schedule/37-next-sun-final-videos-and-presentations
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9a9fdbb45e781cab9cf23062ff56e2ca0506a2@course-website-template
+DTSTAMP:20270502T000000Z
+SUMMARY:MILESTONE Final Reflection
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DESCRIPTION:Course day: Day38\\nDetails: /cmse495-SS27/Schedule/38-next-sun
+ -personal-reflection
+URL:/cmse495-SS27/Schedule/38-next-sun-personal-reflection
 END:VEVENT
 BEGIN:VEVENT
 UID:db997275971ca76cc8bdb2a38db290b94002a43e@course-website-template
@@ -631,9 +631,9 @@ DESCRIPTION:Course day: Day41\\nDetails: /cmse495-SS27/Schedule/41-same-fin
 URL:/cmse495-SS27/Schedule/41-same-final-extended-deadline
 END:VEVENT
 BEGIN:VEVENT
-UID:89ecfe61e26b8fe97a566614c2cd59b8958dc9d6@course-website-template
+UID:5e9fb961048bcc0296970751fba9d402c4989ddc@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Final Project and Video
+SUMMARY:MILESTONE - Final Project and Video
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 DESCRIPTION:Course day: Day39\\nDetails: /cmse495-SS27/Schedule/39-next-sun

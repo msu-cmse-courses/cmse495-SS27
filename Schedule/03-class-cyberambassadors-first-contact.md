@@ -6,7 +6,7 @@ date: '2027-01-25'
 
 
 
-#  Project Introductions and CyberAmbassadors - First Contact
+#  CYBERAMBASSADORS First Contact
 
 
 ![Drawing of an Alien as an instance of first contact](https://lh6.googleusercontent.com/QaFKjplF03tmwvNIqhoHE1H5q-ntqNx6Bbc5fm5_b1KmUiJwPBq6y4KSQDFjrK4adxJozhjTeMlt68CtEKGpW_eFiO3-7k53xnU5JqIU9maUk_LR_82mMPfqqBwjnUkNMw=w488)

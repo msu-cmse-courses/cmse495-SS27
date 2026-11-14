@@ -6,7 +6,7 @@ date: '2027-02-10'
 
 
 
-# CyberAmbassadors - Let's Talk 
+# CYBERAMBASSADORS Let's Talk 
 
 ## Agenda (110 Minutes)
 

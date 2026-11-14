@@ -18,7 +18,7 @@
   day_id: Day02
 - date: '2027-01-24'
   week_start: '2027-01-18'
-  title: MILESTONE - Project Preferences
+  title: MILESTONE Project Preferences
   url: /Schedule/02-next-sun-project-preferences
   event_type: next
   day_id: Day02
@@ -42,7 +42,7 @@
   day_id: Day05
 - date: '2027-01-31'
   week_start: '2027-01-25'
-  title: Project Files - Organizing your Team and Project!
+  title: MILESTONE Project File Organization
   url: /Schedule/05-next-sun-project-organization
   event_type: next
   day_id: Day05
@@ -60,13 +60,13 @@
   day_id: Day07
 - date: '2027-02-05'
   week_start: '2027-02-01'
-  title: 'In-Class Assignment: SCHOLAR Tutorial Review'
+  title: SCHOLAR Tutorial Review
   url: /Schedule/08-class-scholar-review
   event_type: class
   day_id: Day08
 - date: '2027-02-07'
   week_start: '2027-02-01'
-  title: Project Exploration and Plan
+  title: MILESTONE Project Exploration and Plan
   url: /Schedule/08-next-sun-exploration-and-plan
   event_type: next
   day_id: Day08
@@ -84,13 +84,13 @@
   day_id: Day10
 - date: '2027-02-12'
   week_start: '2027-02-08'
-  title: 'In-Class Assignment: Pull Request'
+  title: SCHOLARS Pull Request
   url: /Schedule/11-class-scholar-pull-request
   event_type: class
   day_id: Day11
 - date: '2027-02-14'
   week_start: '2027-02-08'
-  title: Project Plan Video Storyboard
+  title: MILESTONE Project Plan Video Storyboard
   url: /Schedule/11-next-sun-plan-video-storyboard
   event_type: next
   day_id: Day11
@@ -108,13 +108,13 @@
   day_id: Day13
 - date: '2027-02-19'
   week_start: '2027-02-15'
-  title: 'In-Class Assignment: Pull Request'
+  title: SCHOLARS Pull Request
   url: /Schedule/14-class-scholar-pull-request
   event_type: class
   day_id: Day14
 - date: '2027-02-21'
   week_start: '2027-02-15'
-  title: Project Proposal Video
+  title: MILESTONE Project Proposal Video
   url: /Schedule/14-next-sun-plan-video
   event_type: next
   day_id: Day14
@@ -132,13 +132,13 @@
   day_id: Day16
 - date: '2027-02-26'
   week_start: '2027-02-22'
-  title: 'In-Class Assignment: SCHOLAR Cleaning'
+  title: SCHOLAR Cleaning
   url: /Schedule/17-class-scholar-presentations
   event_type: class
   day_id: Day17
 - date: '2027-02-28'
   week_start: '2027-02-22'
-  title: Assignment - Project Media Outreach
+  title: MILESTONE Project Media Outreach
   url: /Schedule/17-next-sun-outreach
   event_type: next
   day_id: Day17
@@ -156,13 +156,13 @@
   day_id: Day19
 - date: '2027-03-05'
   week_start: '2027-03-01'
-  title: Selection Matrix
+  title: SCHOLAR Selection Matrix
   url: /Schedule/20-class-scholar-selection-matrix
   event_type: class
   day_id: Day20
 - date: '2027-03-07'
   week_start: '2027-03-01'
-  title: Install Instructions - Project Reproducibility
+  title: MILESTONE Reproducable Install Instructions
   url: /Schedule/20-next-sun-install-instructions
   event_type: next
   day_id: Day20
@@ -222,13 +222,13 @@
   day_id: Day22
 - date: '2027-03-19'
   week_start: '2027-03-15'
-  title: Tutorial Selection
+  title: SCHOLAR Tutorial Selection
   url: /Schedule/23-class-scholar-tutorial-selection
   event_type: class
   day_id: Day23
 - date: '2027-03-21'
   week_start: '2027-03-15'
-  title: Install Instructions - Project Reproducibility
+  title: MILESTONE Install Instructions - Project Reproducibility
   url: /Schedule/23-next-sun-install-instructions
   event_type: next
   day_id: Day23
@@ -240,7 +240,7 @@
   day_id: Day24
 - date: '2027-03-24'
   week_start: '2027-03-22'
-  title: Work on Tutorials
+  title: SCHOLAR Work on Tutorials
   url: /Schedule/25-class-scholar-tutorial-writing
   event_type: class
   day_id: Day25
@@ -252,7 +252,7 @@
   day_id: Day26
 - date: '2027-03-28'
   week_start: '2027-03-22'
-  title: Storyboard Update
+  title: MILESTONE Storyboard Update
   url: /Schedule/25-next-sun-second-video-storyboard
   event_type: next
   day_id: Day25
@@ -264,7 +264,7 @@
   day_id: Day27
 - date: '2027-03-31'
   week_start: '2027-03-29'
-  title: Work on Tutorials
+  title: SCHOLAR Work on Tutorials
   url: /Schedule/28-class-scholar-tutorial-pull-requests
   event_type: class
   day_id: Day28
@@ -276,7 +276,7 @@
   day_id: Day29
 - date: '2027-04-04'
   week_start: '2027-03-29'
-  title: Submission
+  title: MILESTONE Minimum Viable Project Video
   url: /Schedule/28-next-sun-mvp-video
   event_type: next
   day_id: Day28
@@ -288,7 +288,7 @@
   day_id: Day30
 - date: '2027-04-07'
   week_start: '2027-04-05'
-  title: Deep Tutorial Review
+  title: SCHOLAR Deep Tutorial Review
   url: /Schedule/31-class-scholar-deep-tutorial-review
   event_type: class
   day_id: Day31
@@ -300,7 +300,7 @@
   day_id: Day32
 - date: '2027-04-11'
   week_start: '2027-04-05'
-  title: Reproducibility
+  title: MILESTONE Reproducibility
   url: /Schedule/31-next-sun-reproducibility
   event_type: next
   day_id: Day31
@@ -312,7 +312,7 @@
   day_id: Day33
 - date: '2027-04-14'
   week_start: '2027-04-12'
-  title: Tutorial Presentations
+  title: SCHOLAR Tutorial Presentations
   url: /Schedule/34-class-scholar-tutorial-presentations
   event_type: class
   day_id: Day34
@@ -324,7 +324,7 @@
   day_id: Day35
 - date: '2027-04-18'
   week_start: '2027-04-12'
-  title: Project Draft
+  title: MILESTONE - Project Draft
   url: /Schedule/34-next-sun-full-project-draft
   event_type: next
   day_id: Day34
@@ -348,16 +348,16 @@
   day_id: Day38
 - date: '2027-04-25'
   week_start: '2027-04-19'
-  title: Final Reflection
-  url: /Schedule/38-next-sun-personal-reflection
-  event_type: next
-  day_id: Day38
-- date: '2027-04-25'
-  week_start: '2027-04-19'
-  title: Final Videos and Presentations
+  title: MILESTONE - Final Videos and Presentations
   url: /Schedule/37-next-sun-final-videos-and-presentations
   event_type: next
   day_id: Day37
+- date: '2027-04-25'
+  week_start: '2027-04-19'
+  title: MILESTONE Final Reflection
+  url: /Schedule/38-next-sun-personal-reflection
+  event_type: next
+  day_id: Day38
 - date: '2027-04-26'
   week_start: '2027-04-26'
   title: Showcase Practice
@@ -390,7 +390,7 @@
   day_id: Day41
 - date: '2027-05-02'
   week_start: '2027-04-26'
-  title: Final Project and Video
+  title: MILESTONE - Final Project and Video
   url: /Schedule/39-next-sun-final-project
   event_type: next
   day_id: Day39

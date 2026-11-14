@@ -4,7 +4,7 @@ date: '2027-04-05'
 ---
 
 
-# CyberAmbassadors - Leading with Principles
+# CYBERAMBASSADORS Leading with Principles
 
 
 ## Agenda (110 Minutes)

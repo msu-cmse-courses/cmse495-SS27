@@ -6,7 +6,7 @@ date: '2027-03-17'
 
 
 
-# CyberAmbassadors - Leading the Team
+# CYBERAMBASSADORS Leading the Team
 
 
 ## Agenda (110 Minutes)

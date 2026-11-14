@@ -6,7 +6,7 @@ date: '2027-01-27'
 
 
 
-# CyberAmbassadors - Teaming Up
+# CYBERAMBASSADORS Teaming Up
 
 ![Conflict Effectiveness Curve](https://lh4.googleusercontent.com/gDFPla4pVk2hXDxl3vN6oIGcZWPKzWTts5OFZ_q-ymN6jcFAR2pTKadxgl7P2Lw1WZEKr7hajDQbzE_ZJFbKdNjU8jJvtKPtjLMNdbr8XqbAZZMXYFYozcwuJwe1NaUiMFT2ya--Dh8=w740)
 
