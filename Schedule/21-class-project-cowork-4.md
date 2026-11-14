@@ -1,4 +1,6 @@
-
+---
+layout: schedule
+---
 
 # Project Co-Work
 
