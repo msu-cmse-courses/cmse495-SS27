@@ -199,13 +199,20 @@ class ScheduleUpdater:
             return anchor_date
         raise ValueError(f"Unsupported schedule relation: {item.relation}")
 
-    def update_schedule_page_dates(self, schedule_dir: Path) -> None:
-        """Ensure every schedule markdown file has a current front-matter date."""
+    def update_schedule_page_dates(self, schedule_dir: Path) -> list[str]:
+        """Ensure valid schedule markdown files have current front-matter dates."""
 
-        parsed_items, _ = parse_schedule_directory(schedule_dir)
+        parsed_items, parse_warnings = parse_schedule_directory(schedule_dir)
         class_dates = self._meeting_dates()
+        warnings = [f"{warning.file_path.name}: {warning.message}" for warning in parse_warnings]
 
         for item in parsed_items:
+            if item.anchor_day < 1 or item.anchor_day > len(class_dates):
+                warnings.append(
+                    f"{item.file_path.name}: anchor {item.anchor_day:02d} is out of range for this semester"
+                )
+                continue
+
             target_date = self._resolve_target_date(item, class_dates)
             file_path = item.file_path
             text = file_path.read_text(encoding="utf-8")
@@ -248,6 +255,8 @@ class ScheduleUpdater:
             if body_text:
                 updated_text += "\n" + body_text
             file_path.write_text(updated_text, encoding="utf-8")
+
+        return warnings
 
     def _first_day(self) -> datetime:
         """Return the first date in the semester calendar."""
@@ -480,8 +489,9 @@ class ScheduleUpdater:
     ) -> None:
         """Write the generated schedule YAML and warning summary for the website."""
 
-        self.update_schedule_page_dates(Path(schedule_dir))
+        date_warnings = self.update_schedule_page_dates(Path(schedule_dir))
         events, warnings = self.build_schedule_events(Path(schedule_dir))
+        warnings = list(dict.fromkeys([*date_warnings, *warnings]))
 
         schedule_data_file = Path(schedule_data_path)
         schedule_data_file.parent.mkdir(parents=True, exist_ok=True)

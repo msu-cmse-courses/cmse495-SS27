@@ -1,1 +1,7 @@
-[]
+- warning: 'XX-class-project-cowork-4.md: Filename does not match convention. Expected
+    one of: NN-class-*, NN-same-*, NN-plus-D-*, NN-next-WDAY-*'
+- warning: '42-same-final-extended-deadline.md: anchor 42 is out of range for this
+    semester'
+- warning: '30-class-mvp-presentations.md: duplicate class anchor 30; using 30-class-cyberambassadors-leading-with-principles.md'
+- warning: 'Day24: missing NN-class-* file; inserted TBD entry'
+- warning: 'Day41: missing NN-class-* file; inserted TBD entry'

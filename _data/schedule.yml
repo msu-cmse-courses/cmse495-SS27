@@ -90,7 +90,7 @@
   day_id: Day11
 - date: '2027-02-14'
   week_start: '2027-02-08'
-  title: MILESTONE Project Plan Video Storyboard
+  title: MILESTONE Project Intro Video Storyboard
   url: /Schedule/11-next-sun-plan-video-storyboard
   event_type: next
   day_id: Day11
@@ -114,14 +114,14 @@
   day_id: Day14
 - date: '2027-02-21'
   week_start: '2027-02-15'
-  title: MILESTONE Project Proposal Video
+  title: MILESTONE Project Intro Video
   url: /Schedule/14-next-sun-plan-video
   event_type: next
   day_id: Day14
 - date: '2027-02-22'
   week_start: '2027-02-22'
-  title: Proposal Presentations
-  url: /Schedule/15-class-proposal-presentations
+  title: Intro Video Reviews
+  url: /Schedule/15-class-intro-video
   event_type: class
   day_id: Day15
 - date: '2027-02-24'
@@ -196,18 +196,6 @@
   url: null
   event_type: non_class
   day_id: null
-- date: '2027-03-13'
-  week_start: '2027-03-08'
-  title: Spring Break
-  url: null
-  event_type: non_class
-  day_id: null
-- date: '2027-03-14'
-  week_start: '2027-03-08'
-  title: Spring Break
-  url: null
-  event_type: non_class
-  day_id: null
 - date: '2027-03-15'
   week_start: '2027-03-15'
   title: Install Instruction Review
@@ -234,20 +222,20 @@
   day_id: Day23
 - date: '2027-03-22'
   week_start: '2027-03-22'
-  title: CYBERAMBASSADORS Leading the Change
-  url: /Schedule/24-class-cyberambassadors-leading-the-change
+  title: TBD
+  url: null
   event_type: class
   day_id: Day24
 - date: '2027-03-24'
   week_start: '2027-03-22'
-  title: SCHOLAR Work on Tutorials
-  url: /Schedule/25-class-scholar-tutorial-writing
+  title: CYBERAMBASSADORS Leading the Change
+  url: /Schedule/25-class-cyberambassadors-leading-the-change
   event_type: class
   day_id: Day25
 - date: '2027-03-26'
   week_start: '2027-03-22'
-  title: Minimum Viable Product Storyboard Review
-  url: /Schedule/26-class-second-storyboard-review
+  title: SCHOLAR Work on Tutorials
+  url: /Schedule/26-class-scholar-tutorial-writing
   event_type: class
   day_id: Day26
 - date: '2027-03-28'
@@ -270,8 +258,8 @@
   day_id: Day28
 - date: '2027-04-02'
   week_start: '2027-03-29'
-  title: Minimum Viable Product Demo Presentations
-  url: /Schedule/29-class-mvp-presentations
+  title: Minimum Viable Product Storyboard Review
+  url: /Schedule/29-class-second-storyboard-review
   event_type: class
   day_id: Day29
 - date: '2027-04-04'
@@ -336,14 +324,14 @@
   day_id: Day36
 - date: '2027-04-21'
   week_start: '2027-04-19'
-  title: Project Co-Work
-  url: /Schedule/37-class-project-cowork-4
+  title: Review Presentation Plan
+  url: /Schedule/37-class-review-presentation-plan
   event_type: class
   day_id: Day37
 - date: '2027-04-23'
   week_start: '2027-04-19'
-  title: Final Presentation Storyboard
-  url: /Schedule/38-class-final-presentation-storyboard-feedback
+  title: Showcase Practice
+  url: /Schedule/38-class-showcase-practice
   event_type: class
   day_id: Day38
 - date: '2027-04-25'
@@ -360,14 +348,14 @@
   day_id: Day38
 - date: '2027-04-26'
   week_start: '2027-04-26'
-  title: Showcase Practice
-  url: /Schedule/39-class-showcase-practice
+  title: Minimum Viable Product Demo Presentations
+  url: /Schedule/39-class-final-video-presentations
   event_type: class
   day_id: Day39
 - date: '2027-04-28'
   week_start: '2027-04-26'
-  title: Minimum Viable Product Demo Presentations
-  url: /Schedule/40-class-final-video-presentations
+  title: Course Review and Reflections
+  url: /Schedule/40-class-course-review-and-reflection
   event_type: class
   day_id: Day40
 - date: '2027-04-30'
@@ -378,15 +366,9 @@
   day_id: Day41
 - date: '2027-04-30'
   week_start: '2027-04-26'
-  title: Course Review and Reflections
-  url: /Schedule/41-class-course-review-and-reflection
+  title: TBD
+  url: null
   event_type: class
-  day_id: Day41
-- date: '2027-04-30'
-  week_start: '2027-04-26'
-  title: Final Extended Deadline
-  url: /Schedule/41-same-final-extended-deadline
-  event_type: same
   day_id: Day41
 - date: '2027-05-02'
   week_start: '2027-04-26'
