@@ -6,7 +6,7 @@ date: '2027-02-22'
 
 
 
-# Proposal Presentations
+# Intro Video Reviews
 
 Today we will watch the presentation videos. With 70 minutes we may not have enough time to get through all of the videos. However, I have set aside time on Wednesday to finish up if we need it.
 

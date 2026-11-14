@@ -14,7 +14,7 @@ breaks:
     description: "Martin Luther King Jr. Day - University Closed"
   spring_break:
     start: "2027-03-08"
-    end: "2027-03-14"
+    end: "2027-03-12"
     description: "Spring Break"
 
 important_dates:

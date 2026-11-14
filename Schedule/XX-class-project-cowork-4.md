@@ -1,7 +1,4 @@
----
-layout: schedule
-date: '2027-04-21'
----
+
 
 # Project Co-Work
 

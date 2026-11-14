@@ -6,7 +6,7 @@ date: '2027-02-21'
 
 
 
-# MILESTONE Project Proposal Video
+# MILESTONE Project Intro Video
 
 For this assignment you and your team will create and submit a 3-5 minute project Introduction video. Tap into your own creativity. This video will be given to your community partners.  Make something you are proud of and would want to post on-line or include in a presentation. 
 
