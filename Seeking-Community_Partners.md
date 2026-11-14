@@ -5,7 +5,9 @@ left_image: /assets/img/MSU.png
 left_image_alt: Michigan State University logo
 ---
 
-# Seeking Data Science Capstone Community Partners
+# Community Partners
+
+## Seeking Data Science Capstone Community Partners
 
 Department of Computational Mathematics, Science, and Engineering  
 Michigan State University  

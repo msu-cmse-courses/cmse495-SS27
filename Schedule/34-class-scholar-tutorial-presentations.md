@@ -3,7 +3,7 @@ layout: schedule
 date: '2027-04-14'
 ---
 
-# Tutorial Presentations 
+# SCHOLAR Tutorial Presentations 
 
 
 ### Agenda for today's class (110 minutes)

@@ -4,7 +4,7 @@ date: '2027-04-07'
 ---
 
 
-# Deep Tutorial Review 
+# SCHOLAR Deep Tutorial Review 
 
 
 

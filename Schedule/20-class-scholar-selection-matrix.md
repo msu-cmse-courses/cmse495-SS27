@@ -6,7 +6,7 @@ date: '2027-03-05'
 
 
 
-# Selection Matrix
+# SCHOLAR Selection Matrix
 
 ## Agenda (110 Minutes)
 

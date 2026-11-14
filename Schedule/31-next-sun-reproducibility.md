@@ -3,7 +3,7 @@ layout: schedule
 date: '2027-04-11'
 ---
 
-# Reproducibility
+# MILESTONE Reproducibility
 
 ![Example project figure](https://www.researchgate.net/publication/374654731/figure/fig4/AS:11431281197917308@1697128184444/Example-of-tea-pest-data-visualization.png)
 

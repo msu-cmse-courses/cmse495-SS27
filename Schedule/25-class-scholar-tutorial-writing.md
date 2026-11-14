@@ -6,7 +6,7 @@ date: '2027-03-24'
 
 
 
-# Work on Tutorials
+# SCHOLAR Work on Tutorials
 
 
 ## Agenda (110 Minutes)

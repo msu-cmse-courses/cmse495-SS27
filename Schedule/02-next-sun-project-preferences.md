@@ -5,7 +5,7 @@ date: '2027-01-24'
 
 
 
-# MILESTONE - Project Preferences
+# MILESTONE Project Preferences
 
 > **📅 ONE-TIME DEADLINE EXTENSION**
 >

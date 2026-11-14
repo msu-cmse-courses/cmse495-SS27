@@ -4,7 +4,7 @@ date: '2027-04-04'
 ---
 
 
-
+# MILESTONE Minimum Viable Project Video
 
 ### Minimum Viable Product Video
 For this assignment you and your team will create and submit a 3-5 minute video demo of an end-to-end fully working minimal viable product. Think of this as the "second part" of your final video that starts just after the introduction. 

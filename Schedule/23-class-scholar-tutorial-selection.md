@@ -6,7 +6,7 @@ date: '2027-03-19'
 
 
 
-#  Tutorial Selection
+# SCHOLAR Tutorial Selection
 
 
 

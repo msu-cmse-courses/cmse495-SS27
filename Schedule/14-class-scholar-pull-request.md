@@ -6,7 +6,7 @@ date: '2027-02-19'
 
 
 
-# In-Class Assignment: Pull Request
+# SCHOLARS Pull Request
 
 This week we will practice issuing a "pull request" from a git repository. 
 

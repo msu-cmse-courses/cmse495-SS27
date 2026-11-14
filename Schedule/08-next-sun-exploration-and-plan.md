@@ -5,7 +5,7 @@ date: '2027-02-07'
 
 
 
-# Project Exploration and Plan
+# MILESTONE Project Exploration and Plan
 
 ![Graphic of a Gantt Chart for project planning](https://upload.wikimedia.org/wikipedia/commons/a/aa/Project_schedule.png?20160608211101)
 

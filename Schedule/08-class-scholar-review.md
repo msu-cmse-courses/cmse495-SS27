@@ -6,7 +6,7 @@ date: '2027-02-05'
 
 
 
-# In-Class Assignment: SCHOLAR Tutorial Review
+# SCHOLAR Tutorial Review
 
 ## Agenda (110 Minutes)
 - (20 minutes) Tech-Talk

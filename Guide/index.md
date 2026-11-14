@@ -1,7 +1,7 @@
 ---
 layout: guide
 ---
-# Guide Overview
+# Course Guide
 
 CMSE 495 is a team-based, project-driven course. This guide serves as a reference for how the course operates throughout the semester.
 

@@ -3,10 +3,7 @@ layout: schedule
 date: '2027-02-28'
 ---
 
-
-
-
-# Assignment - Project Media Outreach
+# MILESTONE Project Media Outreach
 
 ![Photo of the CMSE hallway Display TVs](https://lh4.googleusercontent.com/8HIcsTC0Qex_CrUGony0fCgT9NFovjOXVtVyTafSJ2SrKan7ul863VnMOwHLKJvFmX6RRI5PBMMf6ZUZIOvzaYTDL6guyOqzlvELWGpkdjOiwOka6SMw4cRomh-bxK5EBg=w740)
 

@@ -3,7 +3,7 @@ layout: schedule
 date: '2027-05-02'
 ---
 
-# Final Project and Video
+# MILESTONE - Final Project and Video
 
 ![Finish Line](https://cdn.pixabay.com/photo/2016/03/31/21/07/checkered-1296203__340.png)
 

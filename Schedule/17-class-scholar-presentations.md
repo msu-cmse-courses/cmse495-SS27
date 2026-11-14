@@ -6,7 +6,7 @@ date: '2027-02-26'
 
 
 
-# In-Class Assignment: SCHOLAR Cleaning
+# SCHOLAR Cleaning
 
 ## Agenda (110 Minutes)
 
