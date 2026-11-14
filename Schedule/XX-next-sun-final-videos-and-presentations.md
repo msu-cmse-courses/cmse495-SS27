@@ -1,7 +1,4 @@
----
-layout: schedule
-date: '2027-04-25'
----
+
 
 # MILESTONE - Final Videos and Presentations
 
