@@ -324,14 +324,14 @@
   day_id: Day35
 - date: '2027-04-19'
   week_start: '2027-04-19'
-  title: TBD
-  url: null
+  title: Review Presentation Plan
+  url: /Schedule/36-class-review-presentation-plan
   event_type: class
   day_id: Day36
 - date: '2027-04-21'
   week_start: '2027-04-19'
-  title: Review Presentation Plan
-  url: /Schedule/37-class-review-presentation-plan
+  title: Project Co-Work
+  url: /Schedule/37-class-project-cowork
   event_type: class
   day_id: Day37
 - date: '2027-04-23'

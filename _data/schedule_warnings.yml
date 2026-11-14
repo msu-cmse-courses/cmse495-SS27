@@ -1,7 +1,4 @@
-- warning: 'XX-class-project-cowork.md: Filename does not match convention. Expected
-    one of: NN-class-*, NN-same-*, NN-plus-D-*, NN-next-WDAY-*'
 - warning: 'XX-class-second-storyboard-review.md: Filename does not match convention.
     Expected one of: NN-class-*, NN-same-*, NN-plus-D-*, NN-next-WDAY-*'
 - warning: 'XX-next-sun-second-video-storyboard.md: Filename does not match convention.
     Expected one of: NN-class-*, NN-same-*, NN-plus-D-*, NN-next-WDAY-*'
-- warning: 'Day36: missing NN-class-* file; inserted TBD entry'

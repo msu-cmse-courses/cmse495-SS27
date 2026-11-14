@@ -523,22 +523,24 @@ DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-next-sun
 URL:/cmse495-SS27/Schedule/35-next-sun-final-videos-and-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:bb4dd3a3823747103f9abd9f00bb13418876972a@course-website-template
-DTSTAMP:20270505T000000Z
-SUMMARY:TBD
-DTSTART:20270419T123000
-DTEND:20270419T134000
-DESCRIPTION:Course day: Day36
-END:VEVENT
-BEGIN:VEVENT
-UID:02a9dca8e07b1954317c3628cbda0ca72968e7aa@course-website-template
+UID:b65defe78a3581022a04ba6bcc5dfe9f15907208@course-website-template
 DTSTAMP:20270505T000000Z
 SUMMARY:Review Presentation Plan
+DTSTART:20270419T123000
+DTEND:20270419T134000
+DESCRIPTION:Course day: Day36\\nDetails: /cmse495-SS27/Schedule/36-class-re
+ view-presentation-plan
+URL:/cmse495-SS27/Schedule/36-class-review-presentation-plan
+END:VEVENT
+BEGIN:VEVENT
+UID:12a1bdb2b151975948dc94bac21f33e22b24c95a@course-website-template
+DTSTAMP:20270505T000000Z
+SUMMARY:Project Co-Work
 DTSTART:20270421T123000
 DTEND:20270421T134000
-DESCRIPTION:Course day: Day37\\nDetails: /cmse495-SS27/Schedule/37-class-re
- view-presentation-plan
-URL:/cmse495-SS27/Schedule/37-class-review-presentation-plan
+DESCRIPTION:Course day: Day37\\nDetails: /cmse495-SS27/Schedule/37-class-pr
+ oject-cowork
+URL:/cmse495-SS27/Schedule/37-class-project-cowork
 END:VEVENT
 BEGIN:VEVENT
 UID:78108370290e64a4c38c69e573dd2db2c3ecf904@course-website-template
