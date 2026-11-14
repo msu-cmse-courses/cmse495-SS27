@@ -1,6 +1,8 @@
 ---
 layout: schedule
+date: '2027-03-15'
 ---
+
 
 # Project Co-Work
 

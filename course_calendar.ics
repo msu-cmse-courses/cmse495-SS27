@@ -271,16 +271,6 @@ DESCRIPTION:Course day: Day20\\nDetails: /cmse495-SS27/Schedule/20-class-sc
 URL:/cmse495-SS27/Schedule/20-class-scholar-selection-matrix
 END:VEVENT
 BEGIN:VEVENT
-UID:27c95a54801547f1f883247c2b76ae26a1b1fb80@course-website-template
-DTSTAMP:20270505T000000Z
-SUMMARY:MILESTONE Reproducable Install Instructions
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-DESCRIPTION:Course day: Day20\\nDetails: /cmse495-SS27/Schedule/20-next-sun
- -install-instructions
-URL:/cmse495-SS27/Schedule/20-next-sun-install-instructions
-END:VEVENT
-BEGIN:VEVENT
 UID:668dcc878341c5a65329855fd319fa33b180f98f@course-website-template
 DTSTAMP:20270505T000000Z
 SUMMARY:Spring Break
@@ -316,14 +306,14 @@ DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 END:VEVENT
 BEGIN:VEVENT
-UID:98e54da395e413d2b37f2577992fc2aa4b3e4bf6@course-website-template
+UID:e876b8c937dea65233fd8a62453a3069660d9569@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Install Instruction Review
+SUMMARY:Project Co-Work
 DTSTART:20270315T123000
 DTEND:20270315T134000
-DESCRIPTION:Course day: Day21\\nDetails: /cmse495-SS27/Schedule/21-class-in
- stall-instruction-review
-URL:/cmse495-SS27/Schedule/21-class-install-instruction-review
+DESCRIPTION:Course day: Day21\\nDetails: /cmse495-SS27/Schedule/21-class-pr
+ oject-cowork-4
+URL:/cmse495-SS27/Schedule/21-class-project-cowork-4
 END:VEVENT
 BEGIN:VEVENT
 UID:dff1b13a6edd4ca00d105f9af3854b32a8fd4825@course-website-template
@@ -356,12 +346,14 @@ DESCRIPTION:Course day: Day23\\nDetails: /cmse495-SS27/Schedule/23-next-sun
 URL:/cmse495-SS27/Schedule/23-next-sun-install-instructions
 END:VEVENT
 BEGIN:VEVENT
-UID:1daea19e9e160f117ae835bca5f09a260dca1dbe@course-website-template
+UID:1a8e6cac1b2e46a9da4b454e70b28118937dba09@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:TBD
+SUMMARY:Install Instruction Review
 DTSTART:20270322T123000
 DTEND:20270322T134000
-DESCRIPTION:Course day: Day24
+DESCRIPTION:Course day: Day24\\nDetails: /cmse495-SS27/Schedule/24-class-in
+ stall-instruction-review
+URL:/cmse495-SS27/Schedule/24-class-install-instruction-review
 END:VEVENT
 BEGIN:VEVENT
 UID:d2e7f36b0dfbc04bfff8fcfe19944debdcc67de2@course-website-template

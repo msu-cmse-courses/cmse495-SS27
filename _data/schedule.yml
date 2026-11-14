@@ -160,12 +160,6 @@
   url: /Schedule/20-class-scholar-selection-matrix
   event_type: class
   day_id: Day20
-- date: '2027-03-07'
-  week_start: '2027-03-01'
-  title: MILESTONE Reproducable Install Instructions
-  url: /Schedule/20-next-sun-install-instructions
-  event_type: next
-  day_id: Day20
 - date: '2027-03-08'
   week_start: '2027-03-08'
   title: Spring Break
@@ -198,8 +192,8 @@
   day_id: null
 - date: '2027-03-15'
   week_start: '2027-03-15'
-  title: Install Instruction Review
-  url: /Schedule/21-class-install-instruction-review
+  title: Project Co-Work
+  url: /Schedule/21-class-project-cowork-4
   event_type: class
   day_id: Day21
 - date: '2027-03-17'
@@ -222,8 +216,8 @@
   day_id: Day23
 - date: '2027-03-22'
   week_start: '2027-03-22'
-  title: TBD
-  url: null
+  title: Install Instruction Review
+  url: /Schedule/24-class-install-instruction-review
   event_type: class
   day_id: Day24
 - date: '2027-03-24'
