@@ -1,13 +1,18 @@
 ---
 layout: schedule
-date: '2027-04-19'
+date: '2027-03-31'
 ---
+
+
+
+
 
 # Project Co-Work
 
 ## Agenda (110 Minutes)
 
-- (110 minutes) Group individual presentations to instructors
+- (10 minutes) Get ready
+- (100 minutes) Group one-on-one presentations
 
 ---
 # Group one-on-one presentations
@@ -16,4 +21,4 @@ The instructors will go around to each team and spend up to 20 minutes discussin
 
 When the instructor is not meeting with your group, use this time to work on your projects. 
 
-Note: the instructors will not have enough time to visit all groups so we will be doing this multiple weeks in a row.  Order will be determined by the instructors.
+Note: the instructors may not have enough time to visit all groups so we will be doing this activity multiple weeks in a row.  Order will be determined by the instructors based on your 3x3 reflections.

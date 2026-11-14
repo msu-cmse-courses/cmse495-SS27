@@ -386,34 +386,32 @@ DESCRIPTION:Course day: Day25\\nDetails: /cmse495-SS27/Schedule/25-next-sun
 URL:/cmse495-SS27/Schedule/25-next-sun-second-video-storyboard
 END:VEVENT
 BEGIN:VEVENT
-UID:882c5993975779541ade4c5bc57eff5fb7959837@course-website-template
+UID:ff7478d47d44fbf8fb9f01e292ac46cd41e8397a@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Project Co-Work
+SUMMARY:TBD
 DTSTART:20270329T123000
 DTEND:20270329T134000
-DESCRIPTION:Course day: Day27\\nDetails: /cmse495-SS27/Schedule/27-class-pr
- oject-cowork-1
-URL:/cmse495-SS27/Schedule/27-class-project-cowork-1
+DESCRIPTION:Course day: Day27
 END:VEVENT
 BEGIN:VEVENT
-UID:734ff68b1c6c18a16f4b1e8659e3951ee17fd02f@course-website-template
+UID:026bf0eb17d26f0e944a05bb581b214d9e4ac572@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:SCHOLAR Work on Tutorials
+SUMMARY:Project Co-Work
 DTSTART:20270331T123000
 DTEND:20270331T134000
-DESCRIPTION:Course day: Day28\\nDetails: /cmse495-SS27/Schedule/28-class-sc
- holar-tutorial-pull-requests
-URL:/cmse495-SS27/Schedule/28-class-scholar-tutorial-pull-requests
+DESCRIPTION:Course day: Day28\\nDetails: /cmse495-SS27/Schedule/28-class-pr
+ oject-cowork
+URL:/cmse495-SS27/Schedule/28-class-project-cowork
 END:VEVENT
 BEGIN:VEVENT
-UID:96b2ec459f06e35a2b1a7d107950610d5f2380e7@course-website-template
+UID:4fcc5d119d4c98ad97155df0ff4b4fb4e635f841@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Minimum Viable Product Storyboard Review
+SUMMARY:SCHOLAR Work on Tutorials
 DTSTART:20270402T123000
 DTEND:20270402T134000
-DESCRIPTION:Course day: Day29\\nDetails: /cmse495-SS27/Schedule/29-class-se
- cond-storyboard-review
-URL:/cmse495-SS27/Schedule/29-class-second-storyboard-review
+DESCRIPTION:Course day: Day29\\nDetails: /cmse495-SS27/Schedule/29-class-sc
+ holar-tutorial-pull-requests
+URL:/cmse495-SS27/Schedule/29-class-scholar-tutorial-pull-requests
 END:VEVENT
 BEGIN:VEVENT
 UID:775ec7eef78d72dea9a8067180c0e0acae8edfae@course-website-template
@@ -437,24 +435,24 @@ URL:/cmse495-SS27/Schedule/30-class-cyberambassadors-leading-with-principle
  s
 END:VEVENT
 BEGIN:VEVENT
-UID:1718161178841b6359cc02ecd441bf5aead2c620@course-website-template
+UID:3c314466d7b76f2be5723b5ad7b5d81d461d231b@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:SCHOLAR Deep Tutorial Review
+SUMMARY:Minimum Viable Product Demo Presentations
 DTSTART:20270407T123000
 DTEND:20270407T134000
-DESCRIPTION:Course day: Day31\\nDetails: /cmse495-SS27/Schedule/31-class-sc
- holar-deep-tutorial-review
-URL:/cmse495-SS27/Schedule/31-class-scholar-deep-tutorial-review
+DESCRIPTION:Course day: Day31\\nDetails: /cmse495-SS27/Schedule/31-class-mv
+ p-presentations
+URL:/cmse495-SS27/Schedule/31-class-mvp-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:f448a75921c7e0a7e7ac64ce23e53c1b7963015a@course-website-template
+UID:3aed531f9e46dc02181702a3a9553655ea5665e4@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Figure Reproducibility initial documentation
+SUMMARY:SCHOLAR Deep Tutorial Review
 DTSTART:20270409T123000
 DTEND:20270409T134000
-DESCRIPTION:Course day: Day32\\nDetails: /cmse495-SS27/Schedule/32-class-fi
- gure-reproducibility-review
-URL:/cmse495-SS27/Schedule/32-class-figure-reproducibility-review
+DESCRIPTION:Course day: Day32\\nDetails: /cmse495-SS27/Schedule/32-class-sc
+ holar-deep-tutorial-review
+URL:/cmse495-SS27/Schedule/32-class-scholar-deep-tutorial-review
 END:VEVENT
 BEGIN:VEVENT
 UID:78cbd27feea5010d39503f669dd2754a2c7ea5d6@course-website-template
@@ -467,34 +465,34 @@ DESCRIPTION:Course day: Day31\\nDetails: /cmse495-SS27/Schedule/31-next-sun
 URL:/cmse495-SS27/Schedule/31-next-sun-reproducibility
 END:VEVENT
 BEGIN:VEVENT
-UID:62205c39f6f20afe13e42b461caf1667e69b5e23@course-website-template
+UID:fabaf57de2aeb1fa80729ef6a92d008c5e5e5d50@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Project Co-Work
+SUMMARY:Figure Reproducibility initial documentation
 DTSTART:20270412T123000
 DTEND:20270412T134000
-DESCRIPTION:Course day: Day33\\nDetails: /cmse495-SS27/Schedule/33-class-pr
- oject-cowork-2
-URL:/cmse495-SS27/Schedule/33-class-project-cowork-2
+DESCRIPTION:Course day: Day33\\nDetails: /cmse495-SS27/Schedule/33-class-fi
+ gure-reproducibility-review
+URL:/cmse495-SS27/Schedule/33-class-figure-reproducibility-review
 END:VEVENT
 BEGIN:VEVENT
-UID:b27cab610a61da0b4b7b9b308d2f1317cf20a914@course-website-template
+UID:2f9d77263f8320abbc2a4658bfacf9522dbb71e2@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:SCHOLAR Tutorial Presentations
+SUMMARY:Project Co-Work
 DTSTART:20270414T123000
 DTEND:20270414T134000
-DESCRIPTION:Course day: Day34\\nDetails: /cmse495-SS27/Schedule/34-class-sc
- holar-tutorial-presentations
-URL:/cmse495-SS27/Schedule/34-class-scholar-tutorial-presentations
+DESCRIPTION:Course day: Day34\\nDetails: /cmse495-SS27/Schedule/34-class-pr
+ oject-cowork
+URL:/cmse495-SS27/Schedule/34-class-project-cowork
 END:VEVENT
 BEGIN:VEVENT
-UID:8dc0dc3ec2f90d21fe3d678edf652693008809c8@course-website-template
+UID:9f9dfaec9fd50c665e9088107204924e596f6da2@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Full Project Review
+SUMMARY:SCHOLAR Tutorial Presentations
 DTSTART:20270416T123000
 DTEND:20270416T134000
-DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-class-fu
- ll-project-review
-URL:/cmse495-SS27/Schedule/35-class-full-project-review
+DESCRIPTION:Course day: Day35\\nDetails: /cmse495-SS27/Schedule/35-class-sc
+ holar-tutorial-presentations
+URL:/cmse495-SS27/Schedule/35-class-scholar-tutorial-presentations
 END:VEVENT
 BEGIN:VEVENT
 UID:fa48b705720518282bc6e0d7d1e633255fa4d5a8@course-website-template
@@ -507,24 +505,24 @@ DESCRIPTION:Course day: Day34\\nDetails: /cmse495-SS27/Schedule/34-next-sun
 URL:/cmse495-SS27/Schedule/34-next-sun-full-project-draft
 END:VEVENT
 BEGIN:VEVENT
-UID:3e8873ec5b40354fcc05317d059971b157cfa0fa@course-website-template
+UID:30267db59c18338bf0dc83298a7efe053015e8a9@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Project Co-Work
+SUMMARY:Full Project Review
 DTSTART:20270419T123000
 DTEND:20270419T134000
-DESCRIPTION:Course day: Day36\\nDetails: /cmse495-SS27/Schedule/36-class-pr
- oject-cowork-3
-URL:/cmse495-SS27/Schedule/36-class-project-cowork-3
+DESCRIPTION:Course day: Day36\\nDetails: /cmse495-SS27/Schedule/36-class-fu
+ ll-project-review
+URL:/cmse495-SS27/Schedule/36-class-full-project-review
 END:VEVENT
 BEGIN:VEVENT
-UID:02a9dca8e07b1954317c3628cbda0ca72968e7aa@course-website-template
+UID:12a1bdb2b151975948dc94bac21f33e22b24c95a@course-website-template
 DTSTAMP:20270505T000000Z
-SUMMARY:Review Presentation Plan
+SUMMARY:Project Co-Work
 DTSTART:20270421T123000
 DTEND:20270421T134000
-DESCRIPTION:Course day: Day37\\nDetails: /cmse495-SS27/Schedule/37-class-re
- view-presentation-plan
-URL:/cmse495-SS27/Schedule/37-class-review-presentation-plan
+DESCRIPTION:Course day: Day37\\nDetails: /cmse495-SS27/Schedule/37-class-pr
+ oject-cowork
+URL:/cmse495-SS27/Schedule/37-class-project-cowork
 END:VEVENT
 BEGIN:VEVENT
 UID:78108370290e64a4c38c69e573dd2db2c3ecf904@course-website-template

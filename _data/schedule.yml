@@ -240,20 +240,20 @@
   day_id: Day25
 - date: '2027-03-29'
   week_start: '2027-03-29'
-  title: Project Co-Work
-  url: /Schedule/27-class-project-cowork-1
+  title: TBD
+  url: null
   event_type: class
   day_id: Day27
 - date: '2027-03-31'
   week_start: '2027-03-29'
-  title: SCHOLAR Work on Tutorials
-  url: /Schedule/28-class-scholar-tutorial-pull-requests
+  title: Project Co-Work
+  url: /Schedule/28-class-project-cowork
   event_type: class
   day_id: Day28
 - date: '2027-04-02'
   week_start: '2027-03-29'
-  title: Minimum Viable Product Storyboard Review
-  url: /Schedule/29-class-second-storyboard-review
+  title: SCHOLAR Work on Tutorials
+  url: /Schedule/29-class-scholar-tutorial-pull-requests
   event_type: class
   day_id: Day29
 - date: '2027-04-04'
@@ -270,14 +270,14 @@
   day_id: Day30
 - date: '2027-04-07'
   week_start: '2027-04-05'
-  title: SCHOLAR Deep Tutorial Review
-  url: /Schedule/31-class-scholar-deep-tutorial-review
+  title: Minimum Viable Product Demo Presentations
+  url: /Schedule/31-class-mvp-presentations
   event_type: class
   day_id: Day31
 - date: '2027-04-09'
   week_start: '2027-04-05'
-  title: Figure Reproducibility initial documentation
-  url: /Schedule/32-class-figure-reproducibility-review
+  title: SCHOLAR Deep Tutorial Review
+  url: /Schedule/32-class-scholar-deep-tutorial-review
   event_type: class
   day_id: Day32
 - date: '2027-04-11'
@@ -288,20 +288,20 @@
   day_id: Day31
 - date: '2027-04-12'
   week_start: '2027-04-12'
-  title: Project Co-Work
-  url: /Schedule/33-class-project-cowork-2
+  title: Figure Reproducibility initial documentation
+  url: /Schedule/33-class-figure-reproducibility-review
   event_type: class
   day_id: Day33
 - date: '2027-04-14'
   week_start: '2027-04-12'
-  title: SCHOLAR Tutorial Presentations
-  url: /Schedule/34-class-scholar-tutorial-presentations
+  title: Project Co-Work
+  url: /Schedule/34-class-project-cowork
   event_type: class
   day_id: Day34
 - date: '2027-04-16'
   week_start: '2027-04-12'
-  title: Full Project Review
-  url: /Schedule/35-class-full-project-review
+  title: SCHOLAR Tutorial Presentations
+  url: /Schedule/35-class-scholar-tutorial-presentations
   event_type: class
   day_id: Day35
 - date: '2027-04-18'
@@ -312,14 +312,14 @@
   day_id: Day34
 - date: '2027-04-19'
   week_start: '2027-04-19'
-  title: Project Co-Work
-  url: /Schedule/36-class-project-cowork-3
+  title: Full Project Review
+  url: /Schedule/36-class-full-project-review
   event_type: class
   day_id: Day36
 - date: '2027-04-21'
   week_start: '2027-04-19'
-  title: Review Presentation Plan
-  url: /Schedule/37-class-review-presentation-plan
+  title: Project Co-Work
+  url: /Schedule/37-class-project-cowork
   event_type: class
   day_id: Day37
 - date: '2027-04-23'
