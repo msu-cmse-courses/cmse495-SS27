@@ -162,7 +162,7 @@
   day_id: Day20
 - date: '2027-03-07'
   week_start: '2027-03-01'
-  title: TBD
+  title: Nothing Due
   url: null
   event_type: next
   day_id: Day20
@@ -198,7 +198,7 @@
   day_id: null
 - date: '2027-03-14'
   week_start: '2027-03-08'
-  title: TBD
+  title: Nothing Due
   url: null
   event_type: plus
   day_id: Day20
