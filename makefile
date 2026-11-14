@@ -29,7 +29,7 @@ envs:
 	fi
 
 bundle-install:
-	./envs/bin/bundle install
+	bundle install
 
 install-hooks:
 	bash ./scripts/install_git_hooks.sh
@@ -37,29 +37,29 @@ install-hooks:
 schedule: schedule-fall
 
 schedule-fall:
-	./envs/bin/python scripts/update_schedule.py \
+	python scripts/update_schedule.py \
 		--calendar config/fall_calendar.yml \
 		--schedule-dir Schedule \
 		--schedule-data _data/schedule.yml \
 		--schedule-warnings _data/schedule_warnings.yml
-	./envs/bin/python scripts/generate_course_calendar.py \
+	python scripts/generate_course_calendar.py \
 		--schedule-data _data/schedule.yml \
 		--config _config.yml \
 		--output course_calendar.ics
 
 schedule-spring:
-	./envs/bin/python scripts/update_schedule.py \
+	python scripts/update_schedule.py \
 		--calendar config/spring_calendar.yml \
 		--schedule-dir Schedule \
 		--schedule-data _data/schedule.yml \
 		--schedule-warnings _data/schedule_warnings.yml
-	./envs/bin/python scripts/generate_course_calendar.py \
+	python scripts/generate_course_calendar.py \
 		--schedule-data _data/schedule.yml \
 		--config _config.yml \
 		--output course_calendar.ics
 
 calendar-ics:
-	./envs/bin/python scripts/generate_course_calendar.py \
+	python scripts/generate_course_calendar.py \
 		--schedule-data _data/schedule.yml \
 		--config _config.yml \
 		--output course_calendar.ics
@@ -67,20 +67,20 @@ calendar-ics:
 serve: serve-fall
 
 serve-fall: schedule-fall bundle-install
-	./envs/bin/bundle exec jekyll serve --source . --trace
+	bundle exec jekyll serve --source . --trace
 
 serve-spring: schedule-spring bundle-install
-	./envs/bin/bundle exec jekyll serve --source . --trace
+	bundle exec jekyll serve --source . --trace
 
 serve-4001: schedule-fall bundle-install
-	./envs/bin/bundle exec jekyll serve --source . --trace --port 4001
+	bundle exec jekyll serve --source . --trace --port 4001
 
 stop-serve:
 	@lsof -tiTCP:4000 -sTCP:LISTEN | xargs kill -9 2>/dev/null || true
 	@lsof -tiTCP:4001 -sTCP:LISTEN | xargs kill -9 2>/dev/null || true
 
 build-site: schedule-fall bundle-install
-	./envs/bin/bundle exec jekyll build --source . --trace
+	bundle exec jekyll build --source . --trace
 
 clean-schedule-data:
 	rm -f _data/schedule.yml _data/schedule_warnings.yml course_calendar.ics

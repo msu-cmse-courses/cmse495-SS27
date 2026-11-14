@@ -21,29 +21,39 @@ DESCRIPTION:Course day: Day01\\nDetails: /cmse495-SS27/Schedule/01-class-we
 URL:/cmse495-SS27/Schedule/01-class-welcome
 END:VEVENT
 BEGIN:VEVENT
-UID:da8899b23313b9eb1d12c928333fe2376c3b53b4@course-website-template
+UID:efcc878de56c5f0aadc4f377740265c498b4b9aa@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Introductions and First Contact
+SUMMARY:Project Selection Workshop
 DTSTART:20270122T123000
 DTEND:20270122T134000
-DESCRIPTION:Course day: Day02\\nDetails: /cmse495-SS27/Schedule/02-class-cy
- berambassadors-first-contact
-URL:/cmse495-SS27/Schedule/02-class-cyberambassadors-first-contact
+DESCRIPTION:Course day: Day02\\nDetails: /cmse495-SS27/Schedule/02-class-cl
+ ass-agenda-project-review
+URL:/cmse495-SS27/Schedule/02-class-class-agenda-project-review
 END:VEVENT
 BEGIN:VEVENT
-UID:f0f1f54d7eabd7b0dea05879dd62f692e9acffa9@course-website-template
+UID:38d0efb026df5c6fff5c56d6c904d51e8eed0da0@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Project Review Presentations
+SUMMARY:MILESTONE - Project Preferences
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DESCRIPTION:Course day: Day02\\nDetails: /cmse495-SS27/Schedule/02-next-sun
+ -project-preferences
+URL:/cmse495-SS27/Schedule/02-next-sun-project-preferences
+END:VEVENT
+BEGIN:VEVENT
+UID:dd29dfad98adb6241e5e50a4604552d707066874@course-website-template
+DTSTAMP:20270502T000000Z
+SUMMARY:Project Introductions and CyberAmbassadors - First Contact
 DTSTART:20270125T123000
 DTEND:20270125T134000
-DESCRIPTION:Course day: Day03\\nDetails: /cmse495-SS27/Schedule/03-class-cl
- ass-agenda-project-review
-URL:/cmse495-SS27/Schedule/03-class-class-agenda-project-review
+DESCRIPTION:Course day: Day03\\nDetails: /cmse495-SS27/Schedule/03-class-cy
+ berambassadors-first-contact
+URL:/cmse495-SS27/Schedule/03-class-cyberambassadors-first-contact
 END:VEVENT
 BEGIN:VEVENT
-UID:ea82f74da7d6ecec01b4f6329c5c3b6682bd7d85@course-website-template
+UID:71b7c6d1a0ecf2cf825071348602f85274e54d44@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Teaming Up
+SUMMARY:CyberAmbassadors - Teaming Up
 DTSTART:20270127T123000
 DTEND:20270127T134000
 DESCRIPTION:Course day: Day04\\nDetails: /cmse495-SS27/Schedule/04-class-cy
@@ -71,16 +81,6 @@ DESCRIPTION:Course day: Day05\\nDetails: /cmse495-SS27/Schedule/05-next-sun
 URL:/cmse495-SS27/Schedule/05-next-sun-project-organization
 END:VEVENT
 BEGIN:VEVENT
-UID:755d5a923ab3193361a14add4ce4cf690c06aef1@course-website-template
-DTSTAMP:20270502T000000Z
-SUMMARY:Project Preferences
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
-DESCRIPTION:Course day: Day03\\nDetails: /cmse495-SS27/Schedule/03-next-sun
- -project-preferences
-URL:/cmse495-SS27/Schedule/03-next-sun-project-preferences
-END:VEVENT
-BEGIN:VEVENT
 UID:68e92cc6c82407c6310e7fe9f8e568b2a05a48c4@course-website-template
 DTSTAMP:20270502T000000Z
 SUMMARY:In-Class ASSIGNMENT: Team Charter Review
@@ -91,9 +91,9 @@ DESCRIPTION:Course day: Day06\\nDetails: /cmse495-SS27/Schedule/06-class-an
 URL:/cmse495-SS27/Schedule/06-class-anticipating-challenges
 END:VEVENT
 BEGIN:VEVENT
-UID:a221c380f5c16986d49adf18a4012ffc3d91a1d8@course-website-template
+UID:96bd4e3ae1230889214aedce4d1b9e20899c0a66@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Speaking Up
+SUMMARY:CyberAmbassadors - Speaking Up
 DTSTART:20270203T123000
 DTEND:20270203T134000
 DESCRIPTION:Course day: Day07\\nDetails: /cmse495-SS27/Schedule/07-class-cy
@@ -131,9 +131,9 @@ DESCRIPTION:Course day: Day09\\nDetails: /cmse495-SS27/Schedule/09-class-pr
 URL:/cmse495-SS27/Schedule/09-class-project-plan
 END:VEVENT
 BEGIN:VEVENT
-UID:72cbafc559d06bd1b708e1cf19bd17adc9fc43d8@course-website-template
+UID:e6aeaea067d20a022e5501de29ad03124c4d8a74@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Let's Talk
+SUMMARY:CyberAmbassadors - Let's Talk
 DTSTART:20270210T123000
 DTEND:20270210T134000
 DESCRIPTION:Course day: Day10\\nDetails: /cmse495-SS27/Schedule/10-class-cy
@@ -211,9 +211,9 @@ DESCRIPTION:Course day: Day15\\nDetails: /cmse495-SS27/Schedule/15-class-pr
 URL:/cmse495-SS27/Schedule/15-class-proposal-presentations
 END:VEVENT
 BEGIN:VEVENT
-UID:ba1b3f64abb7734d0c78ebd5d359dc1d53471c6c@course-website-template
+UID:e616acb7a129a5d8952903825a75e9caf4c6b867@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Leveling up
+SUMMARY:CyberAmbassadors - Leveling up
 DTSTART:20270224T123000
 DTEND:20270224T134000
 DESCRIPTION:Course day: Day16\\nDetails: /cmse495-SS27/Schedule/16-class-cy
@@ -251,9 +251,9 @@ DESCRIPTION:Course day: Day18\\nDetails: /cmse495-SS27/Schedule/18-class-ou
 URL:/cmse495-SS27/Schedule/18-class-outreach-review
 END:VEVENT
 BEGIN:VEVENT
-UID:982eed212320d96b0c38a8cf00337fd14087c5ec@course-website-template
+UID:4a66a1fb2c7376bc80ee8249e9d3c24d44b919d3@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:It's Complicated
+SUMMARY:CyberAmbassadors - It's Complicated
 DTSTART:20270303T123000
 DTEND:20270303T134000
 DESCRIPTION:Course day: Day19\\nDetails: /cmse495-SS27/Schedule/19-class-cy
@@ -370,9 +370,9 @@ DESCRIPTION:Course day: Day23\\nDetails: /cmse495-SS27/Schedule/23-next-sun
 URL:/cmse495-SS27/Schedule/23-next-sun-install-instructions
 END:VEVENT
 BEGIN:VEVENT
-UID:823d8777ceed02cb3bc0a5dfb96192c36ba39694@course-website-template
+UID:295fd6419a8e1359dee7f0d9b020ab16fa0fd733@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Leading the Change
+SUMMARY:CyberAmbassadors - Leading the Change
 DTSTART:20270322T123000
 DTEND:20270322T134000
 DESCRIPTION:Course day: Day24\\nDetails: /cmse495-SS27/Schedule/24-class-cy
@@ -450,9 +450,9 @@ DESCRIPTION:Course day: Day28\\nDetails: /cmse495-SS27/Schedule/28-next-sun
 URL:/cmse495-SS27/Schedule/28-next-sun-mvp-video
 END:VEVENT
 BEGIN:VEVENT
-UID:e9af3293b7aad091081b22b8fc46c527b1d4d565@course-website-template
+UID:aa8d6fbc656f2c1493ed57ccb722e4a1a11c8f2e@course-website-template
 DTSTAMP:20270502T000000Z
-SUMMARY:Leading with Principles
+SUMMARY:CyberAmbassadors - Leading with Principles
 DTSTART:20270405T123000
 DTEND:20270405T134000
 DESCRIPTION:Course day: Day30\\nDetails: /cmse495-SS27/Schedule/30-class-cy
