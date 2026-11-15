@@ -100,6 +100,11 @@ NN-next-sat-description.md   # next Saturday after class NN
 NN-next-sun-description.md   # next Sunday after class NN
 ```
 
+Use lowercase, hyphen-separated filenames as the preferred style. The
+generator also accepts underscores in the descriptive portion of a filename,
+such as `03-plus-1-milestone_extension.md`, when an existing course uses that
+convention.
+
 For example, `11-next-sun-plan-video-storyboard.md` is scheduled for the
 Sunday after class meeting 11. Keep an existing page's `layout: schedule`
 front matter. The generator updates its `date` value.

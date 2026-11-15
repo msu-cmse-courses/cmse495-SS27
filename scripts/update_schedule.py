@@ -94,15 +94,15 @@ def parse_schedule_filename(file_path: Path) -> tuple[ParsedScheduleFilename | N
 
     stem = file_path.stem.strip().lower()
 
-    class_match = re.match(r"^(\d{2})-class-[a-z0-9][a-z0-9-]*$", stem)
+    class_match = re.match(r"^(\d{2})-class-[a-z0-9][a-z0-9_-]*$", stem)
     if class_match:
         return ParsedScheduleFilename(file_path=file_path, anchor_day=int(class_match.group(1)), relation="class"), None
 
-    same_match = re.match(r"^(\d{2})-same-[a-z0-9][a-z0-9-]*$", stem)
+    same_match = re.match(r"^(\d{2})-same-[a-z0-9][a-z0-9_-]*$", stem)
     if same_match:
         return ParsedScheduleFilename(file_path=file_path, anchor_day=int(same_match.group(1)), relation="same"), None
 
-    plus_match = re.match(r"^(\d{2})-plus-(\d+)-[a-z0-9][a-z0-9-]*$", stem)
+    plus_match = re.match(r"^(\d{2})-plus-(\d+)-[a-z0-9][a-z0-9_-]*$", stem)
     if plus_match:
         return (
             ParsedScheduleFilename(
@@ -114,7 +114,7 @@ def parse_schedule_filename(file_path: Path) -> tuple[ParsedScheduleFilename | N
             None,
         )
 
-    next_match = re.match(r"^(\d{2})-next-([a-z]{3})-[a-z0-9][a-z0-9-]*$", stem)
+    next_match = re.match(r"^(\d{2})-next-([a-z]{3})-[a-z0-9][a-z0-9_-]*$", stem)
     if next_match:
         weekday = next_match.group(2)
         if weekday not in VALID_WEEKDAYS:
