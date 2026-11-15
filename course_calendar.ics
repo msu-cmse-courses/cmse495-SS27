@@ -51,16 +51,6 @@ DESCRIPTION:Course day: Day03\\nDetails: /cmse495-SS27/Schedule/03-class-cy
 URL:/cmse495-SS27/Schedule/03-class-cyberambassadors-first-contact
 END:VEVENT
 BEGIN:VEVENT
-UID:504a29ad29850c8a902b397209705e0f98a8a17c@course-website-template
-DTSTAMP:20270505T000000Z
-SUMMARY:MILESTONE ONE-TIME DEADLINE EXTENSION
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270127
-DESCRIPTION:Course day: Day03\\nDetails: /cmse495-SS27/Schedule/03-plus-1-m
- ilestone-extention
-URL:/cmse495-SS27/Schedule/03-plus-1-milestone-extention
-END:VEVENT
-BEGIN:VEVENT
 UID:ddf0447cd78ace850b58fabec4f95a1664cba43f@course-website-template
 DTSTAMP:20270505T000000Z
 SUMMARY:CYBERAMBASSADORS Teaming Up

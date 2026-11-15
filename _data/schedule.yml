@@ -28,12 +28,6 @@
   url: /Schedule/03-class-cyberambassadors-first-contact
   event_type: class
   day_id: Day03
-- date: '2027-01-26'
-  week_start: '2027-01-25'
-  title: MILESTONE ONE-TIME DEADLINE EXTENSION
-  url: /Schedule/03-plus-1-milestone-extention
-  event_type: plus
-  day_id: Day03
 - date: '2027-01-27'
   week_start: '2027-01-25'
   title: CYBERAMBASSADORS Teaming Up
