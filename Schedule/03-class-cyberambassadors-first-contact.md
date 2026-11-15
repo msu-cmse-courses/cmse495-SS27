@@ -49,3 +49,10 @@ The following are some terms we will use through out the semester but you may se
 **_Next Steps_**:  A task which that can be conducted immediately with no known blocks or prerequisites.  The best next tasks have clear criteria for completion. For example, a poor next step would be something like "write the project proposal".  A better next step may be "Write the outline for the project proposal" An even better next step would be "On Thursday spend 20 minutes writing an outline for the project proposal and then share with the team". What is nice about the last next step is that it has a clear goal, clear finish and how to move forward. 
 
 **_Anticipated Challenges_** Often related to an Open Loop, an Anticipated Challenge is something about the project that could cause it to be delayed or fail.  Each anticipated challenge should include suggestions for what to do avoid or get around the problem.  For example, "What if there is not enough data to train the Neural Network, if so, maybe research pre-trained models and transfer learning?"  Another example would be "It could take a long time to determine the best visualization for this project, make sure preliminary results of the model are obtained early in the project (within the first four weeks) so there is enough time to iterate over different visualizations."  Another really good one is "what do we do if someone gets sick or drops the class."
+
+
+# MILESTONE ONE-TIME DEADLINE EXTENSION
+
+CMSE 495 milestones are normally due on **Sunday evenings**. However, because project teams will be formed by instructions on Tuesday, this milestone may be submitted until **Monday at 11:59 PM** without penalty.
+
+No extension request is required. This is a one-time adjustment due to the team formation process and is not a general course policy.
