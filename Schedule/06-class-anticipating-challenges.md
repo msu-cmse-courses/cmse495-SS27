@@ -38,7 +38,7 @@ For this exercise your groups will review one of the case studies in the followi
 
 To get some practice, the entire class will review the first case study to give you an idea what you should be doing.  challenges 
 
-- [Link to today's Handout](../Anticipating-Challenges)
+- [Link to today's Handout](../Guide/25-Anticipating-Challenges)
 
 # Group Case Studies
 
