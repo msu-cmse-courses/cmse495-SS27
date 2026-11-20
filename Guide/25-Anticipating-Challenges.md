@@ -6,7 +6,7 @@ layout: guide
 
 The following case studies describe situations that frequently arise in collaborative projects. They are included here as a reference for students and will be discussed throughout the semester. The goal is not to memorize the "right" answer, but to think critically about how you would respond when faced with similar challenges in your own work.
 
-## 1\. Case Study: Data Not Available
+## 1\. Data Not Available
 
 The capstone project was to determine if “justice is blind” by looking at legislation data from judges in Michigan. Students were given links to a website with a database and were able to successfully build a web scraper. Unfortunately, the data did not include key information (race and gender) needed to answer any of the research questions asked by the community partner. Some students felt the project “failed,” were frustrated, didn’t know how to proceed and lost motivation.
 
@@ -14,7 +14,7 @@ The capstone project was to determine if “justice is blind” by looking at le
 2. **What could the team do to pivot?**
 3. **What could be added to your team charter that may help avoid this type of problem?**
 
-## 2\. Case Study: Visit from the CEO
+## 2\.Visit from the CEO
 
 The team’s community partner was a very large corporation, and the students had the opportunity mid-semester to give a presentation to the CEO. This was a big deal, and the community partner contact asked the students to give a “practice” presentation a month before the CEO visit. The students were already stressed because this course is a lot of work, and neither of these presentations were required as part of the course milestones. The students figured that these presentations wouldn’t count toward their actual grade, and delayed working on the practice presentation until the last minute. The practice went poorly, and the community partner contact was so unhappy with the students’ work that they cancelled the CEO visit. The students felt relieved that they didn’t have to talk to the CEO, and continued on with the project. The students never told the instructor about the presentation requests, so the instructor was blindsided when the community partner contact complained about the students’ poor performance.
 
@@ -22,7 +22,7 @@ The team’s community partner was a very large corporation, and the students ha
 2. **What could the team have done differently to address their concerns about “extra” work?**
 3. **What could be added to your team charter that may help avoid this type of problem?**
 
-## 3\. Case Study: Micromanaged and Misaligned
+## 3\. Micromanaged and Misaligned
 
 A student team was paired with a community partner for a semester-long consulting project. The partner was enthusiastic and met with the team every week, which initially seemed like a great sign. However, the meetings quickly turned into weekly task assignments given by the partner to the students. Instead of collaborating on a semester-long plan, the partner gave the students new instructions each week, often changing direction or adding new tasks without considering the team's overall timeline or course deliverables.
 
@@ -32,8 +32,6 @@ After the instructor intervened, the situation improved slightly, but the partne
 
 In the end, the team delivered a solid final product, but the experience left them feeling discouraged and unsure how to handle similar dynamics in the future.
 
-### Discussion Questions
-
 1. **What are the risks of allowing a community partner to drive the project week-by-week?**
 2. **How could the team have communicated their course requirements and project timeline more effectively?**
 3. **What strategies could the team use to balance partner expectations with academic deliverables?**
@@ -41,21 +39,21 @@ In the end, the team delivered a solid final product, but the experience left th
 5. **How can students maintain professionalism when a partner relationship becomes strained or unproductive?**
 
 
-## 4\. Case Study: Team Conflict  
+## 4\. Team Conflict  
 Two weeks before the final project was due, the instructor received a long email from a student complaining about another team member who they felt was not contributing sufficiently to the project. The email was extremely detailed and documented various interactions that raised concerns within the team throughout the semester. However, this email was the first time that anyone told the instructor there were problems. The student wanted the team member to get a lower grade than everyone else, and wanted the instructor to intervene and tell the student that they were not meeting expectations.
 
 1. **What responsibilities do team members have for setting clear expectations and for holding each other accountable? How could the team have addressed concerns earlier in the semester?**
 2. **What is the appropriate role for the instructor when there are conflicts within a team?**
 3. **What could be added to your team charter that may help avoid this type of problem?**
 
-## 5\. Case Study: Data Overload  
+## 5\. Data Overload  
 The scope of this capstone project was to find freely available data to answer a set of research questions about “Smart Cities.” The problem is that there were too many data sources (for example, WIFI networks, types and locations of businesses, city websites etc.) and none of the data sources was organized with specific information that would answer any of the research questions directly. It would require a lot of work to clean and organize the data, by hand, representing many hours of manual labor. and even after the work was done there was no clear indication that the data would be sufficient to answer their research questions. Students became overwhelmed with the options and had no clear path forward. Unfortunately, the project community partners where not data experts so didn’t have the ability to guild the team who lost a lot of time continuing their search for the “perfect” dataset.
 
 1. **What are some things the team could do to move forward on the project?**
 2. **What could be added to your team charter that may help avoid this type of problem?**
 
 
-## 6\. Case Study: What is the best accuracy?  
+## 6\. What is the best accuracy?  
 A capstone team is assigned a classification project (i.e., a project where they are given labeled data and need to use machine learning to train a classifier). After a discussion with the community partner there was consensus that at least 85% accuracy seemed like a reasonable accuracy to do what they needed.
 
 The team got into trouble when they kept trying different algorithms with different hyperparameters and couldn’t get their accuracy above 72%. The team took a long time telling the community partner there was a problem and when they did the community partner was very upset at such a terrible result and told the team to keep trying.
@@ -65,7 +63,7 @@ The team got into trouble when they kept trying different algorithms with differ
 3. **What could be done to better manage expectations?**
 4. **What could be added to your team charter that may help avoid this type of problem?**
 
-## 7\. Case Study: Not Enough Training Data  
+## 7\. Not Enough Training Data  
 A community partner wanted to analyze high dimensional, 3D data of material and build a regression model that connected the data to mechanical measurements. This project included a paper (from the 1990’s) that did a similar study that required quite a bit of expensive manual measurements (i.e., no 3D data) of materials and used simple linear correlation.
 
 The community partner wanted to take advantage of the automatic method of gathering data using 3D scanning technology and then use deep learning methods to make an automated model similar to the 1990 paper. Unfortunately, we didn’t know until late in the semester that they only had seven (7) 3D models with 7 labeled points.
@@ -76,7 +74,7 @@ The community partner wanted to take advantage of the automatic method of gather
 4. **What could be done to recover from the lack of data?**
 5. **What could be added to your team charter that may help avoid this type of problem?**
 
-## 8\. Case Study: Working Alone  
+## 8\. Working Alone  
 Members of a team came to the instructors asking for help with a fellow teammate. The teammate was given the task of building a front-end GUI for their project. The problem wasn’t that the teammate was slacking in their role. In fact, you could say that the opposite was true, the teammate was working hard on the GUI and the design of the result looked impressive. The problem the teammate was not sharing everything they needed to get the code working on their own machines and just wanted to work alone. The team was worried the GUI was getting too complex and the teammate was not looping any of the other teammates into the design. Because they didn’t understand how the GUI worked, they didn’t feel confident that their parts of the project (the back end) were going to fit in or even work with the front end. The teammate didn’t seem too concerned and just wanted to work independently from the rest of the team. The team decided to just let the teammate work alone and behind their back built a second GUI backup. In the end they ended up submitting both solutions that really didn’t work together.
 
 1. **Does building a backup GUI seem like the right response to rouge teammate?**
@@ -84,15 +82,13 @@ Members of a team came to the instructors asking for help with a fellow teammate
 3. **What are some other ways the team could have addressed their concerns with their teammate?**
 4. **What could be added to your team charter that may help avoid this type of problem?**
 
-## 9\. Case Study: NDA Delays and Data Drought
+## 9\. NDA Delays and Data Drought
 
 A student team was excited to begin work on a data-driven project with a community partner. The project involved analyzing proprietary customer behavior data to help the partner improve their service delivery. However, early in the semester, the team learned that the university and the community partner had not yet finalized a Non-Disclosure Agreement (NDA). 
 
 The NDA was necessary before the partner could legally share any data. Weeks passed as legal teams on both sides negotiated terms. The students grew increasingly frustrated. Without the data, they felt stuck and unsure how to proceed. They spent time waiting, checking in with the partner, and worrying about falling behind. Eventually, the NDA was signed—but by then, the semester was halfway over.
 
 Despite the delay, the team managed to deliver a final report, but it lacked depth and polish. In hindsight, they realized there were many things they could have done earlier to prepare for the data and make better use of their time.
-
-### Discussion Questions
 
 1. **What are some productive activities the team could have done while waiting for the data?**
 2. **How could the team have better communicated with the community partner and instructors during the delay?**
@@ -101,13 +97,11 @@ Despite the delay, the team managed to deliver a final report, but it lacked dep
 5. **How might the team have used this time to better understand the domain, define metrics, or explore related literature?**
 
 
-## 10\. Case Study: Divergent Paths in Model Selection
+## 10\. Divergent Paths in Model Selection
 
 A student team was tasked with building a classification model to support a community partner’s decision-making process. Early in the project, the team realized that there were many possible machine learning models to choose from. Uncertain about which model would perform best, they made a strategic decision: each team member would independently explore a different model. This approach encouraged exploration and individual initiative. However, as the semester progressed, the team struggled to maintain cohesion. Each student treated their model as a standalone project, using different preprocessing techniques, evaluation metrics, and reporting styles. By the time of the final presentation, the team had five separate solutions to the same problem, but no unified comparison or synthesis.
 
 The final report reflected this fragmentation. Rather than presenting a cohesive narrative or a comparative analysis of model performance, the report consisted of five loosely connected sections. The team had not agreed on common evaluation criteria, making it impossible to determine which model was most effective. The community partner was left without clear guidance, and the team missed an opportunity to demonstrate collaborative data science practices.
-
-### Discussion Questions
 
 1. **What were the benefits and drawbacks of the team’s “divide and conquer” approach to model selection?**
 2. **How could the team have structured their work to allow for both exploration and integration of results?**
@@ -117,8 +111,6 @@ The final report reflected this fragmentation. Rather than presenting a cohesive
 6. **If you were a member of this team, what steps would you take to ensure the final presentation and report told a unified story?**
 
 
-
-
 ## 11\. Uneven Skills, Uneven Progress
 
 A student team was assigned a predictive modeling project for a community partner. While all members had some Python experience, their familiarity with Git and machine learning varied significantly. One student had prior experience with version control and model development, while others were still learning how to use Git effectively and were new to concepts like hyperparameter tuning and model evaluation.
@@ -126,9 +118,6 @@ A student team was assigned a predictive modeling project for a community partne
 The experienced student took on most of the technical work, including managing the Git repository and building the core model. Other team members contributed to documentation and presentation design but felt disconnected from the technical process. The team didn’t establish shared workflows or take time to build common understanding, which led to uneven contributions and limited collaboration.
 
 During the final presentation, only one student could explain the modeling pipeline and Git workflow. The others struggled to engage with technical questions, and the final report reflected a lack of shared ownership. The project met its goals, but the team missed an opportunity for inclusive learning and skill development.
-Discussion Questions
-
-### Discussion Questions
 
 1. **How could the team have identified and addressed skill gaps early in the project?**
 2. **What strategies could help ensure that all team members are engaged in technical work, even if their skills differ?**
@@ -145,9 +134,7 @@ A student team was excited to use a cutting-edge large language model (LLM) for 
 Once they gained access, the team began integrating the model into their workflow. However, after a few weeks of experimentation, they discovered that the model’s API was more limited than expected. It didn’t support key features they had assumed were available, and adapting it to their domain-specific dataset proved difficult. The team had invested heavily in this tool and didn’t have a backup plan.
 
 As the semester progressed, they struggled to pivot. The final presentation focused more on the challenges they faced than on actionable results. The community partner appreciated their effort but was left without a usable solution. The team reflected that their decision had been driven more by excitement than by careful evaluation.
-Discussion Questions
 
-### Discussion Questions
 
 1. **What could the team have done to mitigate the risk of relying on a tool they hadn’t fully tested?**
 2. **How might early prototyping with alternative tools have helped the team stay on track?**
@@ -163,8 +150,6 @@ However, the team treated the course milestones as their primary roadmap and did
 
 As the semester neared its end, they found themselves short on time. Despite their strong collaboration and steady progress, the final product felt rushed. The community partner received a working solution, but the team knew it could have been more impactful with better planning. They had done everything “right” on paper, but hadn’t taken full ownership of the project timeline.
 
-### Discussion Questions
-
 1. **Why isn’t following course milestones enough to ensure a successful project outcome?**
 2. **What could this team have done differently to plan ahead while still using the milestones as a guide?**
 3. **How can teams build in buffer time for unexpected challenges or refinement?**
@@ -177,7 +162,6 @@ As the semester neared its end, they found themselves short on time. Despite the
 
 A student team was tasked with creating an easy-to-use interface for a set of functions that would be shared internally. The goal was to make it simple for others to integrate these functions into their own code. However, during early discussions, the term **“API”** came up, and the students assumed this meant building a **WebAPI**. They spent weeks designing and implementing a robust web service with endpoints, authentication, and deployment infrastructure. The result looked polished and professional—but it wasn’t what the project needed. The overhead of hosting and calling a WebAPI made integration harder, not easier. What the team really needed was a **Package API**: a lightweight Python package with clear function calls and documentation. By the time the mismatch was discovered, the team had invested significant effort in the wrong solution.
 
-### Discussion Questions
 1. **What caused the misunderstanding between “WebAPI” and “Package API”? How could clearer communication have prevented this?**
 2. **What are the risks of assuming technical jargon means the same thing to everyone on the team?**
 3. **How could the team have validated their approach earlier in the project?**
@@ -218,14 +202,12 @@ The team ultimately completed the technical work successfully, but the strained 
 sides. The students realized that differing assumptions about what “professionalism” looks like had created challenges that were never
 explicitly addressed.
 
-### Discussion Questions
-
 1. How can differing expectations about professionalism affect team–partner relationships?
 2. What could the team have done early in the project to clarify communication norms?
 3. How should students respond when their behavior is perceived as unprofessional, even if no harm was intended?
 4. What could be added to a team charter to help navigate differences in communication styles and expectations?
 
-### 18\. When Feedback Feels Like Rejection
+## 18\. When Feedback Feels Like Rejection
 
 A student team had spent several weeks preparing a major project deliverable and was proud of the result. During a review meeting, the instructor provided detailed feedback and explained that an important part of the deliverable did not meet the project's requirements. The instructor emphasized that much of the work was high quality, but the team would need to revise their approach.
 
@@ -234,8 +216,6 @@ Most of the students accepted the feedback and immediately began discussing next
 Eventually, the student shut down, stopped participating in the discussion, and simply stated that they would make whatever changes were required. The team moved on, but the interaction left both the student and instructor frustrated. The instructor felt the student was no longer engaging in the conversation, while the student felt unheard and believed their concerns had been dismissed.
 
 The project ultimately succeeded, but trust between the student and instructor was damaged. Both left the conversation convinced that the other person was not listening.
-
-#### Discussion Questions
 
 1. Why might a student react emotionally to feedback that was intended to be constructive?
 2. What signals might indicate that a disagreement is becoming personal rather than remaining focused on the work?
